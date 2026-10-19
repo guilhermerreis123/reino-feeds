@@ -1,6 +1,6 @@
 # Feeds do Reino
 
-RSS gratuitos (Google Notícias, links diretos), atualizados de hora em hora.
+As notícias mais importantes por tema (Google Notícias, filtradas pelo Claude, links diretos), atualizadas de hora em hora.
 
 - [Mercado Imobiliário](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario.xml)
 - [Construção civil](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/construcao-civil.xml)
@@ -8,8 +8,9 @@ RSS gratuitos (Google Notícias, links diretos), atualizados de hora em hora.
 - [Desastres naturais](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml)
 - [Pandemia](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/pandemia.xml)
 - [Alterações climáticas](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alteracoes-climaticas.xml)
-- [Avistamentos no céu](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/avistamentos-no-ceu.xml)
+- [Avistamentos no céu](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/avistamentos-no-ceu-arca.xml)
 - [Alagamento](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml)
+- [Avistamentos no céu](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/avistamentos-no-ceu.xml)
 - [Ufologia](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/ufologia.xml)
 - [Arqueologia](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml)
 - [Mercado imobiliário Brasília](https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml)

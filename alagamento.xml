@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title><![CDATA[Alagamento]]></title>
+  <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
+  <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
+  <language>pt-BR</language>
+  <lastBuildDate>Mon, 19 Oct 2026 21:55:14 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Vídeos e fotos: Em 1h30, chuva mata mulher em SP, alaga túnel e ruas, deixa carros submersos e derruba casas e árvores]]></title>
+    <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/10/15/videos-e-fotos-em-1h30-chuva-mata-mulher-em-sp-alaga-tunel-e-ruas-deixa-carros-submersos-e-derruba-casas-e-arvores.ghtml</link>
+    <guid isPermaLink="true">https://g1.globo.com/sp/sao-paulo/noticia/2026/10/15/videos-e-fotos-em-1h30-chuva-mata-mulher-em-sp-alaga-tunel-e-ruas-deixa-carros-submersos-e-derruba-casas-e-arvores.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" style="width: 100%;" /><div>Temporal causou desabamentos, inundou estações de transporte e levou cidade a registrar mais de 1mil km de congestionamento. Defesa Civil alerta para mais chuva nesta quinta (15).</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" style="width: 100%;" /><div>Temporal causou desabamentos, inundou estações de transporte e levou cidade a registrar mais de 1mil km de congestionamento. Defesa Civil alerta para mais chuva nesta quinta (15).</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[G1]]></dc:creator>
+    <pubDate>Mon, 19 Oct 2026 21:46:39 +0000</pubDate>
+    <media:content medium="image" url="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" />
+  </item>
+</channel>
+</rss>

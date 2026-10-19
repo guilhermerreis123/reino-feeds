@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+  <title><![CDATA[Arqueologia]]></title>
+  <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
+  <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
+  <language>pt-BR</language>
+  <lastBuildDate>Mon, 19 Oct 2026 21:55:14 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Naufrágio de 4.700 anos é encontrado na Turquia]]></title>
+    <link>https://portalterradaluz.com.br/destinos-turisticos/arqueologia-naufragio-de-4-700-anos-e-encontrado-na-turquia/</link>
+    <guid isPermaLink="true">https://portalterradaluz.com.br/destinos-turisticos/arqueologia-naufragio-de-4-700-anos-e-encontrado-na-turquia/</guid>
+    <description><![CDATA[<div><img src="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" style="width: 100%;" /><div>15 de outubro de 2026 – Arqueólogos descobriram, na costa sul da Turquia, um naufrágio com cerca de 4.700 anos que pode ser o mais antigo já identificado no mundo. A embarcação foi localizada a aproximadamente […]</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" style="width: 100%;" /><div>15 de outubro de 2026 – Arqueólogos descobriram, na costa sul da Turquia, um naufrágio com cerca de 4.700 anos que pode ser o mais antigo já identificado no mundo. A embarcação foi localizada a aproximadamente […]</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Portal Terra da Luz]]></dc:creator>
+    <pubDate>Mon, 19 Oct 2026 21:46:39 +0000</pubDate>
+    <media:content medium="image" url="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" />
+  </item>
+</channel>
+</rss>

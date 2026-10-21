@@ -5,7 +5,16 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alteracoes-climaticas.xml</link>
   <description><![CDATA[As notícias mais importantes de "alterações climáticas" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 21 Oct 2026 15:41:46 +0000</lastBuildDate>
-
+  <lastBuildDate>Wed, 21 Oct 2026 16:41:19 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Mundo avança para aquecimento de 2,8 °C ainda neste século, alerta ONU]]></title>
+    <link>https://amp.dw.com/pt-br/mundo-avan%C3%A7a-para-aquecimento-de-28-c-ainda-neste-s%C3%A9culo-alerta-onu/a-79721816</link>
+    <guid isPermaLink="true">https://amp.dw.com/pt-br/mundo-avan%C3%A7a-para-aquecimento-de-28-c-ainda-neste-s%C3%A9culo-alerta-onu/a-79721816</guid>
+    <description><![CDATA[<div><img src="https://static.dw.com/image/75942396_6.jpg" style="width: 100%;" /><div>Se não houver mudança no atual curso, relatório das Nações Unidas prevê cenário de extremos climáticos catastróficos. Estados Unidos registraram o maior aumento de emissões neste ano.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://static.dw.com/image/75942396_6.jpg" style="width: 100%;" /><div>Se não houver mudança no atual curso, relatório das Nações Unidas prevê cenário de extremos climáticos catastróficos. Estados Unidos registraram o maior aumento de emissões neste ano.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[DW.com]]></dc:creator>
+    <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://static.dw.com/image/75942396_6.jpg" />
+  </item>
 </channel>
 </rss>

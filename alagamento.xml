@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 25 Oct 2026 15:40:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 16:41:25 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Enchente arrasta pedestres em Jundiaí e duas mulheres morrem; região registra alagamentos e quedas de árvore]]></title>
+    <link>https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/25/chuvas-provocam-alagamentos-quedas-de-arvores-e-interrupcao-ferroviaria-na-regiao-de-jundiai.ghtml</link>
+    <guid isPermaLink="true">https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/25/chuvas-provocam-alagamentos-quedas-de-arvores-e-interrupcao-ferroviaria-na-regiao-de-jundiai.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/5wmDYgVAybg8epph6dLVJawh30M=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/tQl9CqR7qO0ZQsrKGwpw/design-sem-nome-2026-10-25t103810.324.png" style="width: 100%;" /><div>Chuvas em Jundiaí e região causaram duas mortes, alagamentos e a interrupção da Linha 7-Rubi, afetando também o acesso a locais de votação neste domingo.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/5wmDYgVAybg8epph6dLVJawh30M=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/tQl9CqR7qO0ZQsrKGwpw/design-sem-nome-2026-10-25t103810.324.png" style="width: 100%;" /><div>Chuvas em Jundiaí e região causaram duas mortes, alagamentos e a interrupção da Linha 7-Rubi, afetando também o acesso a locais de votação neste domingo.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[G1]]></dc:creator>
+    <pubDate>Sun, 25 Oct 2026 16:40:05 +0000</pubDate>
+    <media:content medium="image" url="https://s2-g1.glbimg.com/5wmDYgVAybg8epph6dLVJawh30M=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/tQl9CqR7qO0ZQsrKGwpw/design-sem-nome-2026-10-25t103810.324.png" />
+  </item>
   <item>
     <title><![CDATA[Chuva histórica provoca alagamentos e risco de desabamentos em Curitiba]]></title>
     <link>https://bandnewsfmcuritiba.com/chuva-historica-provoca-alagamentos-e-risco-de-desabamentos-em-curitiba/</link>

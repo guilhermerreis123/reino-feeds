@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 15:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 16:41:43 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Arqueólogos encontram madeira trabalhada há 10.500 anos a 20 metros de profundidade em lago e investigam possíveis casas da Idade da Pedra]]></title>
+    <link>https://www.diariodolitoral.com.br/mundo/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra/</link>
+    <guid isPermaLink="true">https://www.diariodolitoral.com.br/mundo/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra/</guid>
+    <description><![CDATA[<div><img src="https://cdn.diariodolitoral.com.br/uploads/2026/10/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra-1.jpg" style="width: 100%;" /><div>Descoberta inclui um poste de 1,60 metro e tábuas de madeira que podem mudar o conhecimento sobre os primeiros assentamentos humanos.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://cdn.diariodolitoral.com.br/uploads/2026/10/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra-1.jpg" style="width: 100%;" /><div>Descoberta inclui um poste de 1,60 metro e tábuas de madeira que podem mudar o conhecimento sobre os primeiros assentamentos humanos.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Diário do Litoral]]></dc:creator>
+    <pubDate>Tue, 27 Oct 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://cdn.diariodolitoral.com.br/uploads/2026/10/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra-1.jpg" />
+  </item>
   <item>
     <title><![CDATA[Como a arqueologia ajudou a reconstituir um assassinato no Império Romano]]></title>
     <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/10/como-a-arqueologia-ajudou-a-reconstituir-um-assassinato-no-imperio-romano.ghtml</link>
@@ -95,16 +105,6 @@
     <dc:creator><![CDATA[Correio Braziliense]]></dc:creator>
     <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/descoberta-unica-no-fundo-do-oceano-mergulhadores-encon.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Arqueólogos descobrem habitação mais antiga das Américas, no Alasca]]></title>
-    <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/arqueologos-descobrem-habitacao-mais-antiga-das-americas-no-alasca.phtml</link>
-    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/historia-hoje/arqueologos-descobrem-habitacao-mais-antiga-das-americas-no-alasca.phtml</guid>
-    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/alasca-1.jpg" style="width: 100%;" /><div>Escavação em sítio de 13.800 anos revela estrutura residencial, agulhas primitivas e indícios dos primeiros cães domesticados das Américas, no Alasca</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/alasca-1.jpg" style="width: 100%;" /><div>Escavação em sítio de 13.800 anos revela estrutura residencial, agulhas primitivas e indícios dos primeiros cães domesticados das Américas, no Alasca</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
-    <pubDate>Tue, 20 Oct 2026 16:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/alasca-1.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:41:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 11:41:21 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Terracap oferece terrenos para diferentes perfis de investidores no DF]]></title>
+    <link>https://www.aovivodebrasilia.com.br/terracap-oferece-terrenos-para-diferentes-perfis-de-investidores-no-df/</link>
+    <guid isPermaLink="true">https://www.aovivodebrasilia.com.br/terracap-oferece-terrenos-para-diferentes-perfis-de-investidores-no-df/</guid>
+    <description><![CDATA[<div><img src="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" style="width: 100%;" /><div>Confira o Edital 15/2026 da Terracap com 108 imóveis no DF. Terrenos no Noroeste, Samambaia e mais com financiamento em até 180 meses.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" style="width: 100%;" /><div>Confira o Edital 15/2026 da Terracap com 108 imóveis no DF. Terrenos no Noroeste, Samambaia e mais com financiamento em até 180 meses.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Ao Vivo de Brasília]]></dc:creator>
+    <pubDate>Tue, 27 Oct 2026 11:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" />
+  </item>
   <item>
     <title><![CDATA[Nova ferramenta digital permite pesquisar imóveis em todo o Brasil]]></title>
     <link>https://valor.globo.com/legislacao/noticia/2026/10/24/nova-ferramenta-digital-permite-pesquisar-imoveis-em-todo-o-brasil.ghtml</link>
@@ -55,16 +65,6 @@
     <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
     <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/construcao_civil-e1739386343443.jpg?w=1170&amp;h=630&amp;crop=1" />
-  </item>
-  <item>
-    <title><![CDATA[Fim da escala 6x1 pode encarecer imóveis em 5,5%, alerta Abrainc]]></title>
-    <link>https://exame.com/mercado-imobiliario/fim-da-escala-6x1-pode-encarecer-imoveis-em-55-alerta-abrainc/</link>
-    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/fim-da-escala-6x1-pode-encarecer-imoveis-em-55-alerta-abrainc/</guid>
-    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2024/08/MG_8539.jpg" style="width: 100%;" /><div>Estudo estima que mudança na jornada pode tirar até 2,5 milhões de famílias do financiamento habitacional e pressionar custos da construção</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2024/08/MG_8539.jpg" style="width: 100%;" /><div>Estudo estima que mudança na jornada pode tirar até 2,5 milhões de famílias do financiamento habitacional e pressionar custos da construção</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Exame]]></dc:creator>
-    <pubDate>Tue, 20 Oct 2026 11:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2024/08/MG_8539.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 10:41:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 11:41:21 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Defesa Civil de SP emite 28 alertas de chuva e mantém alerta laranja em todo o estado neste domingo (25)]]></title>
+    <link>https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-emite-28-alertas-e-mantem-alerta-laranja/</link>
+    <guid isPermaLink="true">https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-emite-28-alertas-e-mantem-alerta-laranja/</guid>
+    <description><![CDATA[<div><img src="https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/10/55592648032_70f1d755b6_o-1024x683.webp" style="width: 100%;" /><div>Temporais causaram destelhamentos, quedas de árvores, alagamentos e deslizamentos em diferentes municípios</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/10/55592648032_70f1d755b6_o-1024x683.webp" style="width: 100%;" /><div>Temporais causaram destelhamentos, quedas de árvores, alagamentos e deslizamentos em diferentes municípios</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[agenciasp.sp.gov.br]]></dc:creator>
+    <pubDate>Tue, 27 Oct 2026 11:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/10/55592648032_70f1d755b6_o-1024x683.webp" />
+  </item>
   <item>
     <title><![CDATA[Enchente arrasta pedestres em Jundiaí e duas mulheres morrem; região registra alagamentos e quedas de árvore]]></title>
     <link>https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/25/chuvas-provocam-alagamentos-quedas-de-arvores-e-interrupcao-ferroviaria-na-regiao-de-jundiai.ghtml</link>
@@ -37,16 +47,6 @@ Procure informa...</div></div>]]></content:encoded>
     <dc:creator><![CDATA[Defesa Civil do Rio Grande do Sul]]></dc:creator>
     <pubDate>Sat, 24 Oct 2026 16:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.defesacivil.rs.gov.br/upload/recortes/202610/24103309_137844_GD.jpeg" />
-  </item>
-  <item>
-    <title><![CDATA['A água subiu em segundos': motoristas relatam desespero ao ficarem presos em enchente no túnel do Anhangabaú]]></title>
-    <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/10/14/a-agua-subiu-em-segundos-motoristas-relatam-desespero-ao-ficarem-presos-em-enchente-no-tunel-do-anhangabau.ghtml</link>
-    <guid isPermaLink="true">https://g1.globo.com/sp/sao-paulo/noticia/2026/10/14/a-agua-subiu-em-segundos-motoristas-relatam-desespero-ao-ficarem-presos-em-enchente-no-tunel-do-anhangabau.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" style="width: 100%;" /><div>Motoristas e passageiros abandonaram veículos para tentar escapar da inundação no Centro de São Paulo.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" style="width: 100%;" /><div>Motoristas e passageiros abandonaram veículos para tentar escapar da inundação no Centro de São Paulo.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[G1]]></dc:creator>
-    <pubDate>Tue, 20 Oct 2026 11:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://s2-g1.glbimg.com/MNZmrlxle5aqG4Gj01NnBaciXbk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Phg6LPQ1e8MYBiaeZrXQ/sp2-tunel-anhangabau-20261014-1725.sub.01-frame-21135.jpeg" />
   </item>
 </channel>
 </rss>

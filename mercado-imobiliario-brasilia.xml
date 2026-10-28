@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:41:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bradesco dá salto inédito no juro da casa própria e taxa vai a 15% ao ano]]></title>
+    <link>https://exame.com/mercado-imobiliario/bradesco-da-salto-inedito-no-juro-da-casa-propria-e-taxa-minima-vai-a-15-ao-ano/</link>
+    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/bradesco-da-salto-inedito-no-juro-da-casa-propria-e-taxa-minima-vai-a-15-ao-ano/</guid>
+    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/09/Bradesco.png" style="width: 100%;" /><div>Reajuste foge do padrão de ajustes graduais e, na leitura da MySide, funciona na prática como um freio camuflado a novas contratações</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/09/Bradesco.png" style="width: 100%;" /><div>Reajuste foge do padrão de ajustes graduais e, na leitura da MySide, funciona na prática como um freio camuflado a novas contratações</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Exame]]></dc:creator>
+    <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
+    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2026/09/Bradesco.png" />
+  </item>
   <item>
     <title><![CDATA[Terracap oferece terrenos para diferentes perfis de investidores no DF]]></title>
     <link>https://www.aovivodebrasilia.com.br/terracap-oferece-terrenos-para-diferentes-perfis-de-investidores-no-df/</link>
@@ -55,16 +65,6 @@
     <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/08/711c9572156551ddfba5a0d90332e7b4.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Valor do imóvel pode subir ao redor de 5% com fim da 6x1, diz Abrainc]]></title>
-    <link>https://www.cnnbrasil.com.br/economia/money/macroeconomia/valor-do-imovel-pode-subir-ao-redor-de-5-com-fim-da-6x1-diz-abrainc/</link>
-    <guid isPermaLink="true">https://www.cnnbrasil.com.br/economia/money/macroeconomia/valor-do-imovel-pode-subir-ao-redor-de-5-com-fim-da-6x1-diz-abrainc/</guid>
-    <description><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/construcao_civil-e1739386343443.jpg?w=1170&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Luiz França, presidente da entidade incorporação, alerta que alta nos preços pode retirar 2,5 milhões de famílias do mercado imobiliário</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/construcao_civil-e1739386343443.jpg?w=1170&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Luiz França, presidente da entidade incorporação, alerta que alta nos preços pode retirar 2,5 milhões de famílias do mercado imobiliário</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/construcao_civil-e1739386343443.jpg?w=1170&amp;h=630&amp;crop=1" />
   </item>
 </channel>
 </rss>

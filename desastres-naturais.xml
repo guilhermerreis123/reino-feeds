@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:41:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Previsão de Riscos Geo-Hidrológicos para os dias 24 e 25/10/2026]]></title>
     <link>https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/previsao-de-riscos-geo-hidrologicos-para-os-dias-24-e-25-10-2026</link>
@@ -55,16 +55,6 @@
     <dc:creator><![CDATA[www.gov.br]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/previsao-de-riscos-geo-hidrologicos-para-os-dias-22-a-25-10-2026-1/destaque.jpeg/@@images/e7c3a520-be6d-4d80-9287-01fa5d5ec8f4.jpeg" />
-  </item>
-  <item>
-    <title><![CDATA[Três em cada dez cidades não têm plano contra desastres climáticos; na Baixada Santista, Ministério Público cobrou ação das prefeituras]]></title>
-    <link>https://www.diariodolitoral.com.br/cotidiano/tres-em-cada-dez-cidades-nao-tem-plano-contra-desastres-climaticos-na-baixada-santista-ministerio-publico-cobrou-acao-das-prefeituras/</link>
-    <guid isPermaLink="true">https://www.diariodolitoral.com.br/cotidiano/tres-em-cada-dez-cidades-nao-tem-plano-contra-desastres-climaticos-na-baixada-santista-ministerio-publico-cobrou-acao-das-prefeituras/</guid>
-    <description><![CDATA[<div><img src="https://cdn.diariodolitoral.com.br/uploads/2026/09/Chuvas_no_ABC_46438204955.jpg" style="width: 100%;" /><div>Quase três em cada dez municípios brasileiros não têm plano de contingência para enfrentar desastres climáticos, como enchentes, secas e tempestades. Além</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://cdn.diariodolitoral.com.br/uploads/2026/09/Chuvas_no_ABC_46438204955.jpg" style="width: 100%;" /><div>Quase três em cada dez municípios brasileiros não têm plano de contingência para enfrentar desastres climáticos, como enchentes, secas e tempestades. Além</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Diário do Litoral]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://cdn.diariodolitoral.com.br/uploads/2026/09/Chuvas_no_ABC_46438204955.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:41:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bradesco eleva juro mínimo da casa própria a 15% ao ano mais TR]]></title>
+    <link>https://portas.com.br/noticias/bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-tr/</link>
+    <guid isPermaLink="true">https://portas.com.br/noticias/bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-tr/</guid>
+    <description><![CDATA[<div><img src="https://uploads.portas.com.br/2026/10/Bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-TR-1536x1152.jpg" style="width: 100%;" /><div>Reajuste de 3,3 pontos percentuais distancia o banco dos concorrentes e encarece de forma relevante o financiamento imobiliário</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://uploads.portas.com.br/2026/10/Bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-TR-1536x1152.jpg" style="width: 100%;" /><div>Reajuste de 3,3 pontos percentuais distancia o banco dos concorrentes e encarece de forma relevante o financiamento imobiliário</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[portas.com.br]]></dc:creator>
+    <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
+    <media:content medium="image" url="https://uploads.portas.com.br/2026/10/Bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-TR-1536x1152.jpg" />
+  </item>
   <item>
     <title><![CDATA[Bradesco dá salto inédito no juro da casa própria e taxa mínima vai a 15% ao ano]]></title>
     <link>https://exame.com/mercado-imobiliario/bradesco-da-salto-inedito-no-juro-da-casa-propria-e-taxa-minima-vai-a-15-ao-ano/</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[Forbes Brasil]]></dc:creator>
     <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
     <media:content medium="image" url="https://forbes.com.br/wp-content/uploads/2026/10/Novo-Tamanho-Site-2026-10-20T173159.118-1200x675.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Por que a queda dos juros não garante financiamento às incorporadoras]]></title>
-    <link>https://exame.com/bussola/por-que-a-queda-dos-juros-nao-garante-financiamento-as-incorporadoras/</link>
-    <guid isPermaLink="true">https://exame.com/bussola/por-que-a-queda-dos-juros-nao-garante-financiamento-as-incorporadoras/</guid>
-    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/10/Incorporadoras-pequenas-khunkornStudio.jpg" style="width: 100%;" /><div>Mesmo com a queda da Selic, incorporadoras enfrentam custos de gestão, governança e estruturação que dificultam o acesso ao capital</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/10/Incorporadoras-pequenas-khunkornStudio.jpg" style="width: 100%;" /><div>Mesmo com a queda da Selic, incorporadoras enfrentam custos de gestão, governança e estruturação que dificultam o acesso ao capital</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Exame]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2026/10/Incorporadoras-pequenas-khunkornStudio.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:41:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Arqueologia: Caverna revela casa de 16 mil anos na Espanha]]></title>
+    <link>https://portalterradaluz.com.br/principal/arqueologia-caverna-revela-casa-de-16-mil-anos-na-espanha/</link>
+    <guid isPermaLink="true">https://portalterradaluz.com.br/principal/arqueologia-caverna-revela-casa-de-16-mil-anos-na-espanha/</guid>
+    <description><![CDATA[<div><img src="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" style="width: 100%;" /><div>27 de outubro de 2026 – Uma moradia construída há cerca de 16.800 anos permaneceu preservada no interior de uma caverna no norte da Espanha após um desmoronamento natural bloquear seu acesso. A descoberta, realizada no […]</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" style="width: 100%;" /><div>27 de outubro de 2026 – Uma moradia construída há cerca de 16.800 anos permaneceu preservada no interior de uma caverna no norte da Espanha após um desmoronamento natural bloquear seu acesso. A descoberta, realizada no […]</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Portal Terra da Luz]]></dc:creator>
+    <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
+    <media:content medium="image" url="https://portalterradaluz.com.br/wp-content/uploads/2021/07/icon-portal-terra-da-luz.png" />
+  </item>
   <item>
     <title><![CDATA[Arqueólogos encontram madeira trabalhada há 10.500 anos a 20 metros de profundidade em lago e investigam possíveis casas da Idade da Pedra]]></title>
     <link>https://www.diariodolitoral.com.br/mundo/arqueologos-encontram-madeira-trabalhada-ha-10-500-anos-a-20-metros-de-profundidade-em-lago-e-investigam-possiveis-casas-da-idade-da-pedra/</link>
@@ -95,16 +105,6 @@
     <dc:creator><![CDATA[Midiamax]]></dc:creator>
     <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
     
-  </item>
-  <item>
-    <title><![CDATA[Descoberta única no fundo do oceano: mergulhadores encontraram um anel antigo com a imagem do farol de Alexandria]]></title>
-    <link>https://www.correiobraziliense.com.br/cbradar/descoberta-unica-no-fundo-do-oceano-mergulhadores-encontraram-um-anel-antigo-com-a-imagem-do-farol-de-alexandria/</link>
-    <guid isPermaLink="true">https://www.correiobraziliense.com.br/cbradar/descoberta-unica-no-fundo-do-oceano-mergulhadores-encontraram-um-anel-antigo-com-a-imagem-do-farol-de-alexandria/</guid>
-    <description><![CDATA[<div><img src="https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/descoberta-unica-no-fundo-do-oceano-mergulhadores-encon.jpg" style="width: 100%;" /><div>Em uma época em que imagens digitais tornam monumentos distantes mais familiares, um objeto retirado do Mediterrâneo aproxima o público</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/descoberta-unica-no-fundo-do-oceano-mergulhadores-encon.jpg" style="width: 100%;" /><div>Em uma época em que imagens digitais tornam monumentos distantes mais familiares, um objeto retirado do Mediterrâneo aproxima o público</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Correio Braziliense]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/10/descoberta-unica-no-fundo-do-oceano-mergulhadores-encon.jpg" />
   </item>
 </channel>
 </rss>

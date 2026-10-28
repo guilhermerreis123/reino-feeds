@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/infomoney-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:infomoney.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:41:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
   <item>
     <title><![CDATA[FIIs têm a terceira pior sessão da história e fundos caem até 17%]]></title>
     <link>https://www.infomoney.com.br/onde-investir/fiis-caem-ate-17-apos-segundo-turno-das-eleicoes-ifix-perde-8/</link>
@@ -45,16 +45,6 @@
     <dc:creator><![CDATA[InfoMoney]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.infomoney.com.br/wp-content/uploads/2026/07/loic-furhoff-o1sI7AaBRBA-unsplash.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Por maioria, STF garante imunidade de ITBI a empresas imobiliárias]]></title>
-    <link>https://www.infomoney.com.br/politica/por-maioria-stf-garante-imunidade-de-itbi-a-empresas-imobiliarias/</link>
-    <guid isPermaLink="true">https://www.infomoney.com.br/politica/por-maioria-stf-garante-imunidade-de-itbi-a-empresas-imobiliarias/</guid>
-    <description><![CDATA[<div><img src="https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T143253Z_1_LYNXNPEL8B0NG_RTROPTP_4_POLITICA-JULGAMENTO-BOLSONARO-ATA.jpg" style="width: 100%;" /><div>Corte entendeu que empresas podem ser beneficiadas por isenção prevista em dispositivo</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T143253Z_1_LYNXNPEL8B0NG_RTROPTP_4_POLITICA-JULGAMENTO-BOLSONARO-ATA.jpg" style="width: 100%;" /><div>Corte entendeu que empresas podem ser beneficiadas por isenção prevista em dispositivo</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[InfoMoney]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-12T143253Z_1_LYNXNPEL8B0NG_RTROPTP_4_POLITICA-JULGAMENTO-BOLSONARO-ATA.jpg" />
   </item>
 </channel>
 </rss>

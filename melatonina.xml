@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:25:44 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Anvisa manda recolher suplemento proteico e picolé com melatonina]]></title>
     <link>https://oglobo.globo.com/saude/noticia/2026/10/27/anvisa-determina-recolhimento-de-picole-com-melatonina-e-inositol.ghtml</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[TV Guararapes]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://cdn.tvguararapes.com.br/Folder/2026/10/59f08d1d-0367-40c7-a410-2986cf2ea069/conversions/istockphoto-1314797892-612x612-large.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Mexer no celular antes de dormir aumenta em 59% o risco de insônia]]></title>
-    <link>https://www.terra.com.br/vida-e-estilo/mexer-no-celular-antes-de-dormir-aumenta-em-59-o-risco-de-insonia,10d31cffa3b3c95039198ecddbc2407egyxjhr9n.html</link>
-    <guid isPermaLink="true">https://www.terra.com.br/vida-e-estilo/mexer-no-celular-antes-de-dormir-aumenta-em-59-o-risco-de-insonia,10d31cffa3b3c95039198ecddbc2407egyxjhr9n.html</guid>
-    <description><![CDATA[<div><img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/21/1838449939-young-woman-uses-smartphone-while-lying-bed-evening-scaled.jpg" style="width: 100%;" /><div>Um novo estudo mostrou que o problema é o tempo de tela na cama: cada hora reduz 24 min de sono e eleva em 59% o risco de insônia</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/21/1838449939-young-woman-uses-smartphone-while-lying-bed-evening-scaled.jpg" style="width: 100%;" /><div>Um novo estudo mostrou que o problema é o tempo de tela na cama: cada hora reduz 24 min de sono e eleva em 59% o risco de insônia</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Terra]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
-    <media:content medium="image" url="https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/21/1838449939-young-woman-uses-smartphone-while-lying-bed-evening-scaled.jpg" />
   </item>
 </channel>
 </rss>

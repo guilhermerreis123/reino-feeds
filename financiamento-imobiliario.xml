@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:28:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:25:44 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Bradesco eleva juro mínimo da casa própria a 15% ao ano mais TR]]></title>
     <link>https://portas.com.br/noticias/bradesco-eleva-juro-minimo-da-casa-propria-a-15-ao-ano-mais-tr/</link>
@@ -85,16 +85,6 @@
     <dc:creator><![CDATA[Valor Investe]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://s2-valor-investe.glbimg.com/eZAOl64HCQoi45-d-uAfqesguGQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/6/w/9PBe1BRBKasyTpOSVLuw/ai-generated-9231988-1280.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Crédito Imobiliário: 60% dos Compradores Dizem Que a Vontade de Financiar Aumentou com Novo Modelo]]></title>
-    <link>https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/pesquisa-datazap-novo-modelo-credito-imobiliario/</link>
-    <guid isPermaLink="true">https://forbes.com.br/forbes-money/forbes-real-estate/2026/10/pesquisa-datazap-novo-modelo-credito-imobiliario/</guid>
-    <description><![CDATA[<div><img src="https://forbes.com.br/wp-content/uploads/2026/10/Novo-Tamanho-Site-2026-10-20T173159.118-1200x675.jpg" style="width: 100%;" /><div>Juros, regras de crédito e Selic pesam mais na decisão de compra do que a situação política</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://forbes.com.br/wp-content/uploads/2026/10/Novo-Tamanho-Site-2026-10-20T173159.118-1200x675.jpg" style="width: 100%;" /><div>Juros, regras de crédito e Selic pesam mais na decisão de compra do que a situação política</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Forbes Brasil]]></dc:creator>
-    <pubDate>Wed, 21 Oct 2026 16:40:08 +0000</pubDate>
-    <media:content medium="image" url="https://forbes.com.br/wp-content/uploads/2026/10/Novo-Tamanho-Site-2026-10-20T173159.118-1200x675.jpg" />
   </item>
 </channel>
 </rss>

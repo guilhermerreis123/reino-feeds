@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 29 Oct 2026 16:22:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 16:41:04 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros]]></title>
+    <link>https://valor.globo.com/financas/noticia/2026/10/29/bancos-elevam-taxas-de-financiamento-imobilirio-aps-disparada-dos-juros-futuros.ghtml</link>
+    <guid isPermaLink="true">https://valor.globo.com/financas/noticia/2026/10/29/bancos-elevam-taxas-de-financiamento-imobilirio-aps-disparada-dos-juros-futuros.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" style="width: 100%;" /><div>Itaú anunciou hoje a elevação da taxa mínima para 12,95% ao ano, seguindo o mesmo caminho do Bradesco, que informou a parceiros nesta semana o aumento das taxas em todas as linhas</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" style="width: 100%;" /><div>Itaú anunciou hoje a elevação da taxa mínima para 12,95% ao ano, seguindo o mesmo caminho do Bradesco, que informou a parceiros nesta semana o aumento das taxas em todas as linhas</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Valor Econômico]]></dc:creator>
+    <pubDate>Thu, 29 Oct 2026 16:40:10 +0000</pubDate>
+    <media:content medium="image" url="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" />
+  </item>
   <item>
     <title><![CDATA[Bradesco eleva juro mínimo do crédito imobiliário a 15% ao ano]]></title>
     <link>https://veronoticias.com/economia/bradesco-eleva-juro-minimo-do-credito-imobiliario-a-15-ao-ano/</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
     <pubDate>Fri, 23 Oct 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/10/b71bf7bd3c38f8b4be39d9e0d57f35d2.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Novo crédito imobiliário eleva intenção de compra, aponta estudo]]></title>
-    <link>https://guaiba.com.br/novo-credito-imobiliario-eleva-intencao-de-compra-aponta-estudo/</link>
-    <guid isPermaLink="true">https://guaiba.com.br/novo-credito-imobiliario-eleva-intencao-de-compra-aponta-estudo/</guid>
-    <description><![CDATA[<div><img src="https://guaiba.com.br/wp-content/uploads/2021/11/Aluguel.jpg" style="width: 100%;" /><div>O acesso ao crédito imobiliário é, definitivamente, o principal balizador para quem deseja conquistar a casa própria no Brasil. Dados da pesquisa Moradia do Amanhã – Compra de Imóvel, realizada pelo DataZAP, fonte de inteligência imobiliária do Grupo OLX,  revelam que 6 em cada 10 respondentes aumentaram sua intenção de compra devido ao novo modelo... Leia mais »</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://guaiba.com.br/wp-content/uploads/2021/11/Aluguel.jpg" style="width: 100%;" /><div>O acesso ao crédito imobiliário é, definitivamente, o principal balizador para quem deseja conquistar a casa própria no Brasil. Dados da pesquisa Moradia do Amanhã – Compra de Imóvel, realizada pelo DataZAP, fonte de inteligência imobiliária do Grupo OLX,  revelam que 6 em cada 10 respondentes aumentaram sua intenção de compra devido ao novo modelo... Leia mais »</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Rádio Guaíba]]></dc:creator>
-    <pubDate>Thu, 22 Oct 2026 16:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://guaiba.com.br/wp-content/uploads/2021/11/Aluguel.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 29 Oct 2026 11:21:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 11:41:22 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bradesco eleva juro mínimo do crédito imobiliário a 15% ao ano]]></title>
+    <link>https://veronoticias.com/economia/bradesco-eleva-juro-minimo-do-credito-imobiliario-a-15-ao-ano/</link>
+    <guid isPermaLink="true">https://veronoticias.com/economia/bradesco-eleva-juro-minimo-do-credito-imobiliario-a-15-ao-ano/</guid>
+    <description><![CDATA[<div><img src="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" style="width: 100%;" /><div>O Bradesco aumentou de 11,69% para 15% ao ano, mais Taxa Referencial (TR), os juros mínimos do financiamento imobiliário.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" style="width: 100%;" /><div>O Bradesco aumentou de 11,69% para 15% ao ano, mais Taxa Referencial (TR), os juros mínimos do financiamento imobiliário.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Vero Notícias]]></dc:creator>
+    <pubDate>Thu, 29 Oct 2026 11:40:11 +0000</pubDate>
+    <media:content medium="image" url="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" />
+  </item>
   <item>
     <title><![CDATA[Alta de juro do Bradesco para casa própria freia vendas e eleva parcelas]]></title>
     <link>https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[Rádio Guaíba]]></dc:creator>
     <pubDate>Thu, 22 Oct 2026 16:40:07 +0000</pubDate>
     <media:content medium="image" url="https://guaiba.com.br/wp-content/uploads/2021/11/Aluguel.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[O que pesa na compra do imóvel: juros barram financiamento e risco de enchente vira prioridade]]></title>
-    <link>https://valorinveste.globo.com/produtos/imoveis/noticia/2026/10/22/o-que-pesa-na-compra-do-imovel-juros-barram-financiamento-e-risco-de-enchente-vira-prioridade.ghtml</link>
-    <guid isPermaLink="true">https://valorinveste.globo.com/produtos/imoveis/noticia/2026/10/22/o-que-pesa-na-compra-do-imovel-juros-barram-financiamento-e-risco-de-enchente-vira-prioridade.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-valor-investe.glbimg.com/eZAOl64HCQoi45-d-uAfqesguGQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/6/w/9PBe1BRBKasyTpOSVLuw/ai-generated-9231988-1280.jpg" style="width: 100%;" /><div>Pesquisa DataZAP/Grupo OLX revela que 68% veem taxas altas como maior barreira para a casa própria, enquanto 84% colocam bairros sem alagamentos como prioridade na escolha da casa própria</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-valor-investe.glbimg.com/eZAOl64HCQoi45-d-uAfqesguGQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/6/w/9PBe1BRBKasyTpOSVLuw/ai-generated-9231988-1280.jpg" style="width: 100%;" /><div>Pesquisa DataZAP/Grupo OLX revela que 68% veem taxas altas como maior barreira para a casa própria, enquanto 84% colocam bairros sem alagamentos como prioridade na escolha da casa própria</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Valor Investe]]></dc:creator>
-    <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://s2-valor-investe.glbimg.com/eZAOl64HCQoi45-d-uAfqesguGQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/6/w/9PBe1BRBKasyTpOSVLuw/ai-generated-9231988-1280.jpg" />
   </item>
 </channel>
 </rss>

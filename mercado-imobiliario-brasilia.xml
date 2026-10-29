@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 29 Oct 2026 11:21:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 11:41:22 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Alta de juro do Bradesco para casa própria irá freiar vendas e elevar parcelas]]></title>
+    <link>https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/</link>
+    <guid isPermaLink="true">https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/</guid>
+    <description><![CDATA[<div><img src="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" style="width: 100%;" /><div>Banco aumentou taxa mínima para 15% ao ano; para especialistas, decisão reflete preocupação fiscal. Leia no Poder360.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" style="width: 100%;" /><div>Banco aumentou taxa mínima para 15% ao ano; para especialistas, decisão reflete preocupação fiscal. Leia no Poder360.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Poder360]]></dc:creator>
+    <pubDate>Thu, 29 Oct 2026 11:40:11 +0000</pubDate>
+    <media:content medium="image" url="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" />
+  </item>
   <item>
     <title><![CDATA[Bradesco dá salto inédito no juro da casa própria e taxa vai a 15% ao ano]]></title>
     <link>https://exame.com/mercado-imobiliario/bradesco-da-salto-inedito-no-juro-da-casa-propria-e-taxa-minima-vai-a-15-ao-ano/</link>
@@ -55,16 +65,6 @@
     <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
     <pubDate>Fri, 23 Oct 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/Inteligencia-Artificial-2-e1756321663174.jpg?w=1200&amp;h=630&amp;crop=1" />
-  </item>
-  <item>
-    <title><![CDATA[Aluguel anunciado supera em 76% orçamento de quem busca imóvel no Brasil]]></title>
-    <link>https://paraibabusiness.com.br/aluguel-anunciado-supera-em-76-orcamento-de-quem-busca-imovel-no-brasil/</link>
-    <guid isPermaLink="true">https://paraibabusiness.com.br/aluguel-anunciado-supera-em-76-orcamento-de-quem-busca-imovel-no-brasil/</guid>
-    <description><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/08/711c9572156551ddfba5a0d90332e7b4.webp" style="width: 100%;" /><div>Levantamento aponta diferença entre o valor que consumidores dizem poder pagar e os preços de apartamentos disponíveis para locação</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/08/711c9572156551ddfba5a0d90332e7b4.webp" style="width: 100%;" /><div>Levantamento aponta diferença entre o valor que consumidores dizem poder pagar e os preços de apartamentos disponíveis para locação</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
-    <pubDate>Thu, 22 Oct 2026 11:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/08/711c9572156551ddfba5a0d90332e7b4.webp" />
   </item>
 </channel>
 </rss>

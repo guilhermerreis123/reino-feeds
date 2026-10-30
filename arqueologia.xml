@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:41:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 17:42:05 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[O que se sabe sobre sarcófago de criança romana encontrado na Romênia]]></title>
+    <link>https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/10/o-que-se-sabe-sobre-sarcofago-de-crianca-romana-encontrado-na-romenia.ghtml</link>
+    <guid isPermaLink="true">https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/10/o-que-se-sabe-sobre-sarcofago-de-crianca-romana-encontrado-na-romenia.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/wUyecNuqAPDGd8QiyzVKKHuG1MU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/y/T/EEYHpcSGGZl5wjUEQbug/859152223-1810932570543108-1058644225845889588-n.jpg" style="width: 100%;" /><div>Sepultura da época romana foi encontrada intacta na antiga cidade de Tomis e reúne brinquedos, amuletos e vestígios de um caixão preservado em condições excepcionais</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/wUyecNuqAPDGd8QiyzVKKHuG1MU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/y/T/EEYHpcSGGZl5wjUEQbug/859152223-1810932570543108-1058644225845889588-n.jpg" style="width: 100%;" /><div>Sepultura da época romana foi encontrada intacta na antiga cidade de Tomis e reúne brinquedos, amuletos e vestígios de um caixão preservado em condições excepcionais</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Globo]]></dc:creator>
+    <pubDate>Fri, 30 Oct 2026 17:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://s2-galileu.glbimg.com/wUyecNuqAPDGd8QiyzVKKHuG1MU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/y/T/EEYHpcSGGZl5wjUEQbug/859152223-1810932570543108-1058644225845889588-n.jpg" />
+  </item>
   <item>
     <title><![CDATA[Espada com 3 mil anos achada em naufrágio está afiada até hoje; veja vídeo]]></title>
     <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/10/espada-com-3-mil-anos-achada-em-naufragio-esta-afiada-ate-hoje-veja-video.ghtml</link>
@@ -95,16 +105,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Sat, 24 Oct 2026 11:40:05 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/Italian-Carabinieri-Press-OfficeAFP-161.png" />
-  </item>
-  <item>
-    <title><![CDATA[Mistério de sarcófago romano da Abadia de Westminster é desvendado após 150 anos]]></title>
-    <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/misterio-de-sarcofago-romano-da-abadia-de-westminster-e-desvendado-apos-150-anos.phtml</link>
-    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/historia-hoje/misterio-de-sarcofago-romano-da-abadia-de-westminster-e-desvendado-apos-150-anos.phtml</guid>
-    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/sarcofago-5.jpg" style="width: 100%;" /><div>Análise de radiocarbono e dados históricos indicam que ossos do século 11 achados em sepulcro romano pertencem a antigo abade de Westminster</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/sarcofago-5.jpg" style="width: 100%;" /><div>Análise de radiocarbono e dados históricos indicam que ossos do século 11 achados em sepulcro romano pertencem a antigo abade de Westminster</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
-    <pubDate>Fri, 23 Oct 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/sarcofago-5.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:41:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 17:42:05 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Previsão de Riscos Geo-Hidrológicos para os dias 24 e 25/10/2026]]></title>
     <link>https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/previsao-de-riscos-geo-hidrologicos-para-os-dias-24-e-25-10-2026</link>
@@ -15,16 +15,6 @@
     <dc:creator><![CDATA[www.gov.br]]></dc:creator>
     <pubDate>Sat, 24 Oct 2026 11:40:05 +0000</pubDate>
     <media:content medium="image" url="https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/previsao-de-riscos-geo-hidrologicos-para-os-dias-24-e-25-10-2026/destaque.jpeg/@@images/6bf36e38-2240-4f0a-a42b-6338bc755446.jpeg" />
-  </item>
-  <item>
-    <title><![CDATA[Foz do Iguaçu tem 15 abrigos mapeados para receber vítimas de desastres naturais]]></title>
-    <link>https://www.bemparana.com.br/noticias/foz-do-iguacu-tem-15-abrigos-mapeados-para-receber-vitimas-de-desastres-naturais/</link>
-    <guid isPermaLink="true">https://www.bemparana.com.br/noticias/foz-do-iguacu-tem-15-abrigos-mapeados-para-receber-vitimas-de-desastres-naturais/</guid>
-    <description><![CDATA[<div><img src="https://www.bemparana.com.br/wp-content/uploads/2026/10/55224625957_6f7e926d81_c.jpg?v=22.10.17.40.35" style="width: 100%;" /><div>Foz do Iguaçu, no Oeste do Paraná, tem 15 abrigos temporários cadastrados para receber moradores afetados por temporais, alagamentos e outros desastres</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.bemparana.com.br/wp-content/uploads/2026/10/55224625957_6f7e926d81_c.jpg?v=22.10.17.40.35" style="width: 100%;" /><div>Foz do Iguaçu, no Oeste do Paraná, tem 15 abrigos temporários cadastrados para receber moradores afetados por temporais, alagamentos e outros desastres</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Bem Paraná]]></dc:creator>
-    <pubDate>Fri, 23 Oct 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://www.bemparana.com.br/wp-content/uploads/2026/10/55224625957_6f7e926d81_c.jpg?v=22.10.17.40.35" />
   </item>
 </channel>
 </rss>

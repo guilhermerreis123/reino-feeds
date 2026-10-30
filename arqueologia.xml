@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:40:57 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Espada com 3 mil anos achada em naufrágio está afiada até hoje; veja vídeo]]></title>
+    <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/10/espada-com-3-mil-anos-achada-em-naufragio-esta-afiada-ate-hoje-veja-video.ghtml</link>
+    <guid isPermaLink="true">https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/10/espada-com-3-mil-anos-achada-em-naufragio-esta-afiada-ate-hoje-veja-video.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/lSRC3Re45HF-SL1heACvV6W2ldk=/1260x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/D/u/Srds8OTceFUpxUFHphQQ/spada-mezzano-3-1536x864.jpg" style="width: 100%;" /><div>Artefato de aproximadamente 3.300 anos foi recuperado na Itália, em uma área que abriga vestígios de um antigo assentamento pré-histórico</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/lSRC3Re45HF-SL1heACvV6W2ldk=/1260x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/D/u/Srds8OTceFUpxUFHphQQ/spada-mezzano-3-1536x864.jpg" style="width: 100%;" /><div>Artefato de aproximadamente 3.300 anos foi recuperado na Itália, em uma área que abriga vestígios de um antigo assentamento pré-histórico</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Globo]]></dc:creator>
+    <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://s2-galileu.glbimg.com/lSRC3Re45HF-SL1heACvV6W2ldk=/1260x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/D/u/Srds8OTceFUpxUFHphQQ/spada-mezzano-3-1536x864.jpg" />
+  </item>
   <item>
     <title><![CDATA[Armário soterrado pela erupção de Pompeia revela objetos pessoais de 2 mil anos]]></title>
     <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/armario-soterrado-pela-erupcao-de-pompeia-revela-objetos-pessoais-de-2-mil-anos.phtml</link>
@@ -95,16 +105,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Fri, 23 Oct 2026 16:40:04 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/10/sarcofago-5.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Fragmentos de estátuas do faraó Ramsés II são encontrados "sem querer" no Egito]]></title>
-    <link>https://olhardigital.com.br/2026/10/20/ciencia-e-espaco/fragmentos-de-estatuas-do-farao-ramses-ii-sao-encontrados-sem-querer-no-egito/</link>
-    <guid isPermaLink="true">https://olhardigital.com.br/2026/10/20/ciencia-e-espaco/fragmentos-de-estatuas-do-farao-ramses-ii-sao-encontrados-sem-querer-no-egito/</guid>
-    <description><![CDATA[<div><img src="https://img.odcdn.com.br/wp-content/uploads/2026/10/Thumbs-Arquivo-Compartilhvel-9.png" style="width: 100%;" /><div>Achados em sítio arqueológico no Egito incluem uma cabeça de 1,6 metro de altura e trazem novas informações sobre o legado do faraó</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://img.odcdn.com.br/wp-content/uploads/2026/10/Thumbs-Arquivo-Compartilhvel-9.png" style="width: 100%;" /><div>Achados em sítio arqueológico no Egito incluem uma cabeça de 1,6 metro de altura e trazem novas informações sobre o legado do faraó</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Olhar Digital]]></dc:creator>
-    <pubDate>Fri, 23 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://img.odcdn.com.br/wp-content/uploads/2026/10/Thumbs-Arquivo-Compartilhvel-9.png" />
   </item>
 </channel>
 </rss>

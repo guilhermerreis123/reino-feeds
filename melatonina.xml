@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:40:57 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Anvisa manda recolher picolé com melatonina e inositol]]></title>
+    <link>https://jornaldebrasilia.com.br/noticias/saude/anvisa-manda-recolher-picole-com-melatonina-e-inositol/</link>
+    <guid isPermaLink="true">https://jornaldebrasilia.com.br/noticias/saude/anvisa-manda-recolher-picole-com-melatonina-e-inositol/</guid>
+    <description><![CDATA[<div><img src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/07/20161301/anvisa.jpg" style="width: 100%;" /><div>Segundo a agência, o produto contém ingredientes que não passaram por avaliação de segurança para uso em alimentos convencionais</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/07/20161301/anvisa.jpg" style="width: 100%;" /><div>Segundo a agência, o produto contém ingredientes que não passaram por avaliação de segurança para uso em alimentos convencionais</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Jornal de Brasília]]></dc:creator>
+    <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/07/20161301/anvisa.jpg" />
+  </item>
   <item>
     <title><![CDATA[Anvisa proíbe picolé com melatonina e suplemento alimentar]]></title>
     <link>https://www.tribunapr.com.br/saude-e-bem-estar/anvisa-proibe-picole-com-melatonina-e-suplemento-por-risco-a-saude/</link>

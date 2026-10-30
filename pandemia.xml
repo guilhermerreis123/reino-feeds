@@ -5,7 +5,16 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/pandemia.xml</link>
   <description><![CDATA[As notícias mais importantes de "pandemia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:40:49 +0000</lastBuildDate>
-
+  <lastBuildDate>Fri, 30 Oct 2026 11:40:57 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Dólar sobe 8% e Bolsa tem maior queda desde a pandemia após vitória de Lula]]></title>
+    <link>https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-outubro-2026/</link>
+    <guid isPermaLink="true">https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-outubro-2026/</guid>
+    <description><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/33431_CF20C16C8614BD29-2.jpg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Divisa norte-americana fecha a R$ 5,40, com maior alta diária em 23 anos; circuit breaker foi acionado na Bolsa brasileira pela primeira vez desde 2020</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/33431_CF20C16C8614BD29-2.jpg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Divisa norte-americana fecha a R$ 5,40, com maior alta diária em 23 anos; circuit breaker foi acionado na Bolsa brasileira pela primeira vez desde 2020</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
+    <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/33431_CF20C16C8614BD29-2.jpg?w=1200&amp;h=630&amp;crop=1" />
+  </item>
 </channel>
 </rss>

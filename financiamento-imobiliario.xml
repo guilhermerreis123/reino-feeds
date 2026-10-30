@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 30 Oct 2026 10:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 11:40:57 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Financiamento imobiliário mais caro? Bradesco, Itaú e Santander elevam taxas; Caixa não se manifesta]]></title>
+    <link>https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml</link>
+    <guid isPermaLink="true">https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" style="width: 100%;" /><div>Maiores bancos privados do país apontaram a alta dos juros futuros como justificativa. A Caixa, líder em financiamento de imóveis, está em período de silêncio antes de seu balanço.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" style="width: 100%;" /><div>Maiores bancos privados do país apontaram a alta dos juros futuros como justificativa. A Caixa, líder em financiamento de imóveis, está em período de silêncio antes de seu balanço.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[G1]]></dc:creator>
+    <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" />
+  </item>
   <item>
     <title><![CDATA[Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros]]></title>
     <link>https://valor.globo.com/financas/noticia/2026/10/29/bancos-elevam-taxas-de-financiamento-imobilirio-aps-disparada-dos-juros-futuros.ghtml</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[A Gazeta]]></dc:creator>
     <pubDate>Fri, 23 Oct 2026 16:40:04 +0000</pubDate>
     <media:content medium="image" url="https://netdeal.com.br/api/images/proxy?quality=100&amp;width=1200&amp;src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1792695428082_shutterstock_1964479147_1.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Financiar imóvel de R$ 300 mil pode custar R$ 100 mil a mais dependendo do banco]]></title>
-    <link>https://paraibabusiness.com.br/financiar-imovel-de-r-300-mil-pode-custar-r-100-mil-a-mais-dependendo-do-banco/</link>
-    <guid isPermaLink="true">https://paraibabusiness.com.br/financiar-imovel-de-r-300-mil-pode-custar-r-100-mil-a-mais-dependendo-do-banco/</guid>
-    <description><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/10/b71bf7bd3c38f8b4be39d9e0d57f35d2.webp" style="width: 100%;" /><div>Simulação com entrada de 20% e prazo de 30 anos mostra como a diferença entre os juros cobrados pelos bancos pode elevar o custo da casa própria</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/10/b71bf7bd3c38f8b4be39d9e0d57f35d2.webp" style="width: 100%;" /><div>Simulação com entrada de 20% e prazo de 30 anos mostra como a diferença entre os juros cobrados pelos bancos pode elevar o custo da casa própria</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
-    <pubDate>Fri, 23 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/10/b71bf7bd3c38f8b4be39d9e0d57f35d2.webp" />
   </item>
 </channel>
 </rss>

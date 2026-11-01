@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 01 Nov 2026 15:40:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 16:40:59 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Imagem aérea mostra áreas alagadas após cheia do Rio Guareí no interior de SP]]></title>
+    <link>https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/25/imagem-aerea-mostra-areas-alagadas-apos-cheia-do-rio-guarei-no-interior-de-sp.ghtml</link>
+    <guid isPermaLink="true">https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/25/imagem-aerea-mostra-areas-alagadas-apos-cheia-do-rio-guarei-no-interior-de-sp.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" style="width: 100%;" /><div>A chuva em Guareí atingiu 100 mm, volume esperado para todo o mês. O Rio Guareí transbordou, deixando 60 pessoas ilhadas e atingindo ao menos 40 casas.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" style="width: 100%;" /><div>A chuva em Guareí atingiu 100 mm, volume esperado para todo o mês. O Rio Guareí transbordou, deixando 60 pessoas ilhadas e atingindo ao menos 40 casas.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[G1]]></dc:creator>
+    <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
+    <media:content medium="image" url="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" />
+  </item>
   <item>
     <title><![CDATA[Deslizamentos e alagamentos provocam bloqueio de diversas rodovias do Paraná; veja trechos]]></title>
     <link>https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml</link>

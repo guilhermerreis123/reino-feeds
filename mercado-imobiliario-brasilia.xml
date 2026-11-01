@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 01 Nov 2026 10:40:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 11:41:06 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bancos aumentam juros do crédito para casa própria]]></title>
+    <link>https://oglobo.globo.com/economia/noticia/2026/10/31/bancos-aumentam-juros-do-credito-para-casa-propria.ghtml</link>
+    <guid isPermaLink="true">https://oglobo.globo.com/economia/noticia/2026/10/31/bancos-aumentam-juros-do-credito-para-casa-propria.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-oglobo.glbimg.com/zxEKKO7laIrKn7U2so-s4NGXFag=/636x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/9/M/AA19A2RbG8dXQDFBCXnA/imoveis-fgts.jpg" style="width: 100%;" /><div>Bradesco, Itaú e Santander aumentam taxas do financiamento imobiliário após alta dos juros futuros. Caixa ainda não reajustou</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-oglobo.glbimg.com/zxEKKO7laIrKn7U2so-s4NGXFag=/636x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/9/M/AA19A2RbG8dXQDFBCXnA/imoveis-fgts.jpg" style="width: 100%;" /><div>Bradesco, Itaú e Santander aumentam taxas do financiamento imobiliário após alta dos juros futuros. Caixa ainda não reajustou</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[O GLOBO]]></dc:creator>
+    <pubDate>Sun, 01 Nov 2026 11:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://s2-oglobo.glbimg.com/zxEKKO7laIrKn7U2so-s4NGXFag=/636x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/9/M/AA19A2RbG8dXQDFBCXnA/imoveis-fgts.jpg" />
+  </item>
   <item>
     <title><![CDATA[Financiamento imobiliário fica mais caro no Brasil. Bradesco, Itaú e Santander elevam juros após disparada das taxas futuras]]></title>
     <link>https://br.advfn.com/jornal/2026/10/financiamento-imobiliario-fica-mais-caro-no-brasil-bradesco-itau-e-santander-elevam-juros-apos-disparada-das-taxas-futuras</link>
@@ -55,16 +65,6 @@
     <dc:creator><![CDATA[Ao Vivo de Brasília]]></dc:creator>
     <pubDate>Tue, 27 Oct 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Nova ferramenta digital permite pesquisar imóveis em todo o Brasil]]></title>
-    <link>https://valor.globo.com/legislacao/noticia/2026/10/24/nova-ferramenta-digital-permite-pesquisar-imoveis-em-todo-o-brasil.ghtml</link>
-    <guid isPermaLink="true">https://valor.globo.com/legislacao/noticia/2026/10/24/nova-ferramenta-digital-permite-pesquisar-imoveis-em-todo-o-brasil.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-valor.glbimg.com/2A1CMmxuKHYmDemmd6zAEulrAaE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/D/M/R0iXiwQ3WTjZ0HKwizpg/flaviano-galhardo-diretor-geral-do-onr.jpeg" style="width: 100%;" /><div>Nova Pesquisa Nacional de Bens passa a alcançar cartórios dos 26 Estados e o DF, com consultas por CPF ou CNPJ</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-valor.glbimg.com/2A1CMmxuKHYmDemmd6zAEulrAaE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/D/M/R0iXiwQ3WTjZ0HKwizpg/flaviano-galhardo-diretor-geral-do-onr.jpeg" style="width: 100%;" /><div>Nova Pesquisa Nacional de Bens passa a alcançar cartórios dos 26 Estados e o DF, com consultas por CPF ou CNPJ</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Valor Econômico]]></dc:creator>
-    <pubDate>Sun, 25 Oct 2026 11:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://s2-valor.glbimg.com/2A1CMmxuKHYmDemmd6zAEulrAaE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/D/M/R0iXiwQ3WTjZ0HKwizpg/flaviano-galhardo-diretor-geral-do-onr.jpeg" />
   </item>
 </channel>
 </rss>

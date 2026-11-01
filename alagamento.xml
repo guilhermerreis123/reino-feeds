@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 01 Nov 2026 10:40:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 11:41:06 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Deslizamentos e alagamentos provocam bloqueio de diversas rodovias do Paraná; veja trechos]]></title>
     <link>https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml</link>
@@ -35,16 +35,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Sun, 25 Oct 2026 16:40:05 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/5wmDYgVAybg8epph6dLVJawh30M=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/tQl9CqR7qO0ZQsrKGwpw/design-sem-nome-2026-10-25t103810.324.png" />
-  </item>
-  <item>
-    <title><![CDATA[Chuva histórica provoca alagamentos e risco de desabamentos em Curitiba]]></title>
-    <link>https://bandnewsfmcuritiba.com/chuva-historica-provoca-alagamentos-e-risco-de-desabamentos-em-curitiba/</link>
-    <guid isPermaLink="true">https://bandnewsfmcuritiba.com/chuva-historica-provoca-alagamentos-e-risco-de-desabamentos-em-curitiba/</guid>
-    <description><![CDATA[<div>Chuva histórica provoca alagamentos e risco de desabamentos em Curitiba</div>]]></description>
-    <content:encoded><![CDATA[<div>Chuva histórica provoca alagamentos e risco de desabamentos em Curitiba</div>]]></content:encoded>
-    <dc:creator><![CDATA[Band News FM Curitiba]]></dc:creator>
-    <pubDate>Sun, 25 Oct 2026 11:40:04 +0000</pubDate>
-    
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alteracoes-climaticas.xml</link>
   <description><![CDATA[As notícias mais importantes de "alterações climáticas" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 03 Nov 2026 15:41:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 16:41:36 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Em 8 anos, calor matou 3 milhões de pessoas e crise climática já é emergência global de saúde, alerta relatório Lancet]]></title>
+    <link>https://umsoplaneta.globo.com/clima/noticia/2026/11/03/em-8-anos-calor-matou-3-milhoes-de-pessoas-e-crise-climatica-ja-e-emergencia-global-de-saude-alerta-relatorio-lancet.ghtml</link>
+    <guid isPermaLink="true">https://umsoplaneta.globo.com/clima/noticia/2026/11/03/em-8-anos-calor-matou-3-milhoes-de-pessoas-e-crise-climatica-ja-e-emergencia-global-de-saude-alerta-relatorio-lancet.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-umsoplaneta.glbimg.com/KGYI7_F-5BD2LqfWRRCL7TeP1Oo=/960x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/7/K/uj6meORp6Us7qzNblGyQ/gp0su9dlr-medium-res-1200px-.jpg" style="width: 100%;" /><div>Estudo internacional aponta aumento de 36% na média anual de mortes relacionadas ao calor após o Acordo de Paris e cobra reconhecimento formal da emergência climática na saúde pública</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-umsoplaneta.glbimg.com/KGYI7_F-5BD2LqfWRRCL7TeP1Oo=/960x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/7/K/uj6meORp6Us7qzNblGyQ/gp0su9dlr-medium-res-1200px-.jpg" style="width: 100%;" /><div>Estudo internacional aponta aumento de 36% na média anual de mortes relacionadas ao calor após o Acordo de Paris e cobra reconhecimento formal da emergência climática na saúde pública</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Um só Planeta]]></dc:creator>
+    <pubDate>Tue, 03 Nov 2026 16:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://s2-umsoplaneta.glbimg.com/KGYI7_F-5BD2LqfWRRCL7TeP1Oo=/960x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/7/K/uj6meORp6Us7qzNblGyQ/gp0su9dlr-medium-res-1200px-.jpg" />
+  </item>
   <item>
     <title><![CDATA[Pantanal entra oficialmente na rota da aridez, aponta plano do governo]]></title>
     <link>https://apublica.org/2026/10/seca-no-pantanal-regiao-entra-na-rota-da-aridez/</link>
@@ -75,16 +85,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Wed, 28 Oct 2026 21:21:23 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/G5rRb4u8VSNbPiDF2S5jcL-1iIc=/4280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/0/2qSXR0QEapnGq02G4T8w/2023-06-27t115942z-739052580-rc28r1ark24x-rtrmadp-3-usa-weather.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Como as mudanças climáticas favorecem doenças infecciosas no Brasil]]></title>
-    <link>https://olhardigital.com.br/2026/10/26/ciencia-e-espaco/clima/como-as-mudancas-climaticas-favorecem-doencas-infecciosas-no-brasil/</link>
-    <guid isPermaLink="true">https://olhardigital.com.br/2026/10/26/ciencia-e-espaco/clima/como-as-mudancas-climaticas-favorecem-doencas-infecciosas-no-brasil/</guid>
-    <description><![CDATA[<div><img src="https://olhardigital.com.br/wp-content/uploads/2026/10/aquecimentoglobal.jpg" style="width: 100%;" /><div>Calor, enchentes e queimadas podem favorecer dengue, Oropouche, leptospirose, hantavirose e infecções por fungos no Brasil.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://olhardigital.com.br/wp-content/uploads/2026/10/aquecimentoglobal.jpg" style="width: 100%;" /><div>Calor, enchentes e queimadas podem favorecer dengue, Oropouche, leptospirose, hantavirose e infecções por fungos no Brasil.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Olhar Digital]]></dc:creator>
-    <pubDate>Tue, 27 Oct 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://olhardigital.com.br/wp-content/uploads/2026/10/aquecimentoglobal.jpg" />
   </item>
 </channel>
 </rss>

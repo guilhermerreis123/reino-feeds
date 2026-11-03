@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 03 Nov 2026 15:41:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 16:41:36 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Anvisa manda recolher lotes de produtos com suplementos para sono]]></title>
+    <link>https://liberal.com.br/brasil-e-mundo/economia/anvisa-manda-recolher-lotes-de-produtos-com-suplementos-para-sono</link>
+    <guid isPermaLink="true">https://liberal.com.br/brasil-e-mundo/economia/anvisa-manda-recolher-lotes-de-produtos-com-suplementos-para-sono</guid>
+    <description><![CDATA[<div><img src="https://cdn.liberal.com.br/media/c8/e9/16/96711/anvisa-manda-recolher-lotes-de-produtos-com-suplementos-para-sono-20261102123607000.jpg" style="width: 100%;" /><div>Os riscos da busca por soluções rápidas sem avaliação adequada</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://cdn.liberal.com.br/media/c8/e9/16/96711/anvisa-manda-recolher-lotes-de-produtos-com-suplementos-para-sono-20261102123607000.jpg" style="width: 100%;" /><div>Os riscos da busca por soluções rápidas sem avaliação adequada</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[O Liberal]]></dc:creator>
+    <pubDate>Tue, 03 Nov 2026 16:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://cdn.liberal.com.br/media/c8/e9/16/96711/anvisa-manda-recolher-lotes-de-produtos-com-suplementos-para-sono-20261102123607000.jpg" />
+  </item>
   <item>
     <title><![CDATA[Anvisa manda recolher picolé com melatonina e inositol]]></title>
     <link>https://thmais.com.br/giro-de-noticias/anvisa-manda-recolher-picole-com-melatonina-e-inositol/</link>
@@ -105,16 +115,6 @@
     <dc:creator><![CDATA[O GLOBO]]></dc:creator>
     <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
     <media:content medium="image" url="https://s2-oglobo.glbimg.com/YwkIAFSCsQkjCqnO1-rXF7LXWPk=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/g/3/7GdEoDTIahv4DbhJM2UQ/image-2026-10-27t091730.080.png" />
-  </item>
-  <item>
-    <title><![CDATA[Anvisa manda recolher picolé com melatonina e suplemento proteico por falta de avaliação de segurança]]></title>
-    <link>https://ancora1.com/noticias/anvisa-manda-recolher-picol-com-melatonina-e-suplemento-proteico-por-falta-de-avaliao-de-segurana</link>
-    <guid isPermaLink="true">https://ancora1.com/noticias/anvisa-manda-recolher-picol-com-melatonina-e-suplemento-proteico-por-falta-de-avaliao-de-segurana</guid>
-    <description><![CDATA[<div><img src="https://ancora1.com/site/views/_data/news/anvisa-manda-recolher-picol-com-melatonina-e-suplemento-proteico-por-falta-de-avaliao-de-segurana-1793068001.png" style="width: 100%;" /><div>Medida atinge produtos das marcas Bentô Gelatos e Equaliv; fabricação, comercialização, distribuição e consumo foram suspensos...</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://ancora1.com/site/views/_data/news/anvisa-manda-recolher-picol-com-melatonina-e-suplemento-proteico-por-falta-de-avaliao-de-segurana-1793068001.png" style="width: 100%;" /><div>Medida atinge produtos das marcas Bentô Gelatos e Equaliv; fabricação, comercialização, distribuição e consumo foram suspensos...</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Âncora 1]]></dc:creator>
-    <pubDate>Tue, 27 Oct 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://ancora1.com/site/views/_data/news/anvisa-manda-recolher-picol-com-melatonina-e-suplemento-proteico-por-falta-de-avaliao-de-segurana-1793068001.png" />
   </item>
 </channel>
 </rss>

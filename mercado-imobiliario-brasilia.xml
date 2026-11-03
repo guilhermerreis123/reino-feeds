@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 03 Nov 2026 10:42:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 11:41:11 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Bancos aumentam juros do financiamento imobiliário; taxas chegam a 16,5%]]></title>
+    <link>https://www.brasil247.com/economia/itau-e-bradesco-aumentam-juros-do-financiamento-imobiliario-taxas-chegam-a-165/</link>
+    <guid isPermaLink="true">https://www.brasil247.com/economia/itau-e-bradesco-aumentam-juros-do-financiamento-imobiliario-taxas-chegam-a-165/</guid>
+    <description><![CDATA[<div><img src="https://www.brasil247.com/wp-content/uploads/2026/10/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg?w=1200&amp;quality=88&amp;strip=all" style="width: 100%;" /><div>Alta dos juros futuros encarece o crédito para compra de imóveis, e outros bancos podem anunciar reajustes ainda nesta semana</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.brasil247.com/wp-content/uploads/2026/10/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg?w=1200&amp;quality=88&amp;strip=all" style="width: 100%;" /><div>Alta dos juros futuros encarece o crédito para compra de imóveis, e outros bancos podem anunciar reajustes ainda nesta semana</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Brasil 247]]></dc:creator>
+    <pubDate>Tue, 03 Nov 2026 11:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://www.brasil247.com/wp-content/uploads/2026/10/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg?w=1200&amp;quality=88&amp;strip=all" />
+  </item>
   <item>
     <title><![CDATA[DF registra a menor inadimplência de aluguel do país -]]></title>
     <link>https://mistobrasil.com/2026/10/31/df-registra-a-menor-inadimplencia-de-aluguel-do-pais/</link>
@@ -65,16 +75,6 @@
     <dc:creator><![CDATA[Exame]]></dc:creator>
     <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
     <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2026/09/Bradesco.png" />
-  </item>
-  <item>
-    <title><![CDATA[Terracap oferece terrenos para diferentes perfis de investidores no DF]]></title>
-    <link>https://www.aovivodebrasilia.com.br/terracap-oferece-terrenos-para-diferentes-perfis-de-investidores-no-df/</link>
-    <guid isPermaLink="true">https://www.aovivodebrasilia.com.br/terracap-oferece-terrenos-para-diferentes-perfis-de-investidores-no-df/</guid>
-    <description><![CDATA[<div><img src="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" style="width: 100%;" /><div>Confira o Edital 15/2026 da Terracap com 108 imóveis no DF. Terrenos no Noroeste, Samambaia e mais com financiamento em até 180 meses.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" style="width: 100%;" /><div>Confira o Edital 15/2026 da Terracap com 108 imóveis no DF. Terrenos no Noroeste, Samambaia e mais com financiamento em até 180 meses.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Ao Vivo de Brasília]]></dc:creator>
-    <pubDate>Tue, 27 Oct 2026 11:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://www.aovivodebrasilia.com.br/wp-content/uploads/2023/12/Terracap_sede-1024x576.jpg" />
   </item>
 </channel>
 </rss>

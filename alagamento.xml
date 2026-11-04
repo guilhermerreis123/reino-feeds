@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 04 Nov 2026 15:41:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 16:41:11 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Chuva interdita a Via Dutra, causa alagamentos e provoca queda de muro em Itatiaia]]></title>
     <link>https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/02/chuva-interdita-a-via-dutra-causa-alagamentos-e-provoca-queda-de-muro-em-itatiaia.ghtml</link>
@@ -25,16 +25,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Deslizamentos e alagamentos provocam bloqueio de diversas rodovias do Paraná; veja trechos]]></title>
-    <link>https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml</link>
-    <guid isPermaLink="true">https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/25/deslizamentos-e-alagamentos-provocam-bloqueio-de-diversas-rodovias-do-parana-veja-trechos.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/mJ0fXayiCLMP5N9zzzcYxp5sZb8=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/AUlx02Q06OcgY2dTHXyg/g1-12-.png" style="width: 100%;" /><div>Problemas foram causados pelos temporais registrados ao longo do final de semana.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/mJ0fXayiCLMP5N9zzzcYxp5sZb8=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/AUlx02Q06OcgY2dTHXyg/g1-12-.png" style="width: 100%;" /><div>Problemas foram causados pelos temporais registrados ao longo do final de semana.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[G1]]></dc:creator>
-    <pubDate>Wed, 28 Oct 2026 16:21:42 +0000</pubDate>
-    <media:content medium="image" url="https://s2-g1.glbimg.com/mJ0fXayiCLMP5N9zzzcYxp5sZb8=/1800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/AUlx02Q06OcgY2dTHXyg/g1-12-.png" />
   </item>
 </channel>
 </rss>

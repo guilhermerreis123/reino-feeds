@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 04 Nov 2026 20:41:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 21:40:32 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Bancos aumentam juros do financiamento imobiliário; taxas chegam a 16,5%]]></title>
     <link>https://www.brasil247.com/economia/itau-e-bradesco-aumentam-juros-do-financiamento-imobiliario-taxas-chegam-a-165/</link>
@@ -145,16 +145,6 @@
     <dc:creator><![CDATA[Vero Notícias]]></dc:creator>
     <pubDate>Thu, 29 Oct 2026 11:40:11 +0000</pubDate>
     <media:content medium="image" url="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Alta de juro do Bradesco para casa própria freia vendas e eleva parcelas]]></title>
-    <link>https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/</link>
-    <guid isPermaLink="true">https://www.poder360.com.br/poder-economia/alta-de-juro-do-bradesco-para-casa-propria-freia-vendas-e-eleva-parcelas/</guid>
-    <description><![CDATA[<div><img src="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" style="width: 100%;" /><div>Banco aumentou taxa mínima para 15% ao ano; para especialistas, decisão reflete preocupação fiscal. Leia no Poder360.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" style="width: 100%;" /><div>Banco aumentou taxa mínima para 15% ao ano; para especialistas, decisão reflete preocupação fiscal. Leia no Poder360.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Poder360]]></dc:creator>
-    <pubDate>Wed, 28 Oct 2026 21:21:23 +0000</pubDate>
-    <media:content medium="image" url="https://static.poder360.com.br/uploads/2026/03/minha-casa-minha-vida-rs.jpg" />
   </item>
 </channel>
 </rss>

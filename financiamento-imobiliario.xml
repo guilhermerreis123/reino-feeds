@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 05 Nov 2026 16:42:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:41:46 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Selic estaciona em 13,75%, mas bancos já cobram até 15% na casa própria]]></title>
     <link>https://exame.com/mercado-imobiliario/selic-estaciona-em-1375-mas-bancos-ja-cobram-ate-15-na-casa-propria/</link>
@@ -145,16 +145,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Bancos elevam taxas de financiamento imobiliário após disparada dos juros futuros]]></title>
-    <link>https://valor.globo.com/financas/noticia/2026/10/29/bancos-elevam-taxas-de-financiamento-imobilirio-aps-disparada-dos-juros-futuros.ghtml</link>
-    <guid isPermaLink="true">https://valor.globo.com/financas/noticia/2026/10/29/bancos-elevam-taxas-de-financiamento-imobilirio-aps-disparada-dos-juros-futuros.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" style="width: 100%;" /><div>Itaú anunciou hoje a elevação da taxa mínima para 12,95% ao ano, seguindo o mesmo caminho do Bradesco, que informou a parceiros nesta semana o aumento das taxas em todas as linhas</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" style="width: 100%;" /><div>Itaú anunciou hoje a elevação da taxa mínima para 12,95% ao ano, seguindo o mesmo caminho do Bradesco, que informou a parceiros nesta semana o aumento das taxas em todas as linhas</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Valor Econômico]]></dc:creator>
-    <pubDate>Thu, 29 Oct 2026 16:40:10 +0000</pubDate>
-    <media:content medium="image" url="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" />
   </item>
 </channel>
 </rss>

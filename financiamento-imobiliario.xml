@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 05 Nov 2026 11:41:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 12:41:10 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Selic trava a 13,75%: o que muda para quem quer financiar imóvel?]]></title>
     <link>https://valorinveste.globo.com/google/amp/produtos/imoveis/noticia/2026/11/05/selic-trava-a-1375percent-o-que-muda-para-quem-quer-financiar-imovel.ghtml</link>
@@ -145,16 +145,6 @@
     <dc:creator><![CDATA[Valor Econômico]]></dc:creator>
     <pubDate>Thu, 29 Oct 2026 16:40:10 +0000</pubDate>
     <media:content medium="image" url="https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png" />
-  </item>
-  <item>
-    <title><![CDATA[Bradesco eleva juro mínimo do crédito imobiliário a 15% ao ano]]></title>
-    <link>https://veronoticias.com/economia/bradesco-eleva-juro-minimo-do-credito-imobiliario-a-15-ao-ano/</link>
-    <guid isPermaLink="true">https://veronoticias.com/economia/bradesco-eleva-juro-minimo-do-credito-imobiliario-a-15-ao-ano/</guid>
-    <description><![CDATA[<div><img src="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" style="width: 100%;" /><div>O Bradesco aumentou de 11,69% para 15% ao ano, mais Taxa Referencial (TR), os juros mínimos do financiamento imobiliário.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" style="width: 100%;" /><div>O Bradesco aumentou de 11,69% para 15% ao ano, mais Taxa Referencial (TR), os juros mínimos do financiamento imobiliário.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Vero Notícias]]></dc:creator>
-    <pubDate>Thu, 29 Oct 2026 11:40:11 +0000</pubDate>
-    <media:content medium="image" url="https://veronoticias.com/wp-content/uploads/2024/12/Bradesco.jpg" />
   </item>
 </channel>
 </rss>

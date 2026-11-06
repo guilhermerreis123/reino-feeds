@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 06 Nov 2026 11:40:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 12:41:47 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Juro do financiamento imobiliário subiu. Quem tem crédito aprovado paga a nova taxa?]]></title>
     <link>https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[ADVFN]]></dc:creator>
     <pubDate>Sat, 31 Oct 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Financiamento imobiliário mais caro? Bradesco, Itaú e Santander elevam taxas; Caixa não se manifesta]]></title>
-    <link>https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml</link>
-    <guid isPermaLink="true">https://g1.globo.com/economia/noticia/2026/10/30/financiamento-imobiliario-taxas.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" style="width: 100%;" /><div>Maiores bancos privados do país apontaram a alta dos juros futuros como justificativa. A Caixa, líder em financiamento de imóveis, está em período de silêncio antes de seu balanço.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" style="width: 100%;" /><div>Maiores bancos privados do país apontaram a alta dos juros futuros como justificativa. A Caixa, líder em financiamento de imóveis, está em período de silêncio antes de seu balanço.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[G1]]></dc:creator>
-    <pubDate>Fri, 30 Oct 2026 11:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://s2-g1.glbimg.com/-z_5txXG3C1PkfVBZyHuVxOd7JM=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/SxPEQ2TZy61pG3o9uZMA/fotojet-38-.jpg" />
   </item>
 </channel>
 </rss>

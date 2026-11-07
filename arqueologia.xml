@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 07 Nov 2026 15:41:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 16:40:51 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Estátua de sacerdotisa com 1.500 anos é encontrada no Japão]]></title>
+    <link>https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</link>
+    <guid isPermaLink="true">https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" style="width: 100%;" /><div>Figura de argila com detalhes minuciosos pode representar uma miko, mulher que atuava como intermediária entre os mundos humano e espiritual durante o período Kofun</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" style="width: 100%;" /><div>Figura de argila com detalhes minuciosos pode representar uma miko, mulher que atuava como intermediária entre os mundos humano e espiritual durante o período Kofun</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Globo]]></dc:creator>
+    <pubDate>Sat, 07 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" />
+  </item>
   <item>
     <title><![CDATA[Família usou por anos uma pedra como calço do celeiro sem saber que era um molde de armas de bronze de 1350 a.C.; arqueólogos explicam como o objeto foi identificado]]></title>
     <link>https://olhardigital.com.br/curiosidades/2026/11/06/familia-usou-por-anos-uma-pedra-como-calco-do-celeiro-sem-saber-que-era-um-molde-de-armas-de-bronze-de-1350-a-c-arqueologos-explicam-como-o-objeto-foi-identificado/</link>
@@ -125,16 +135,6 @@
     <dc:creator><![CDATA[Estado de Minas]]></dc:creator>
     <pubDate>Sun, 01 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://midias.em.com.br/_midias/jpg/2026/10/30/7531145-992457e1283b4decb3b01850d08dfeaf-68110904.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Sítios arqueológicos no sertão de Central na Bahia revelam vestígios pré-históricos de milhares de anos]]></title>
-    <link>https://midiamax.com.br/trends/2026/10/31/sitios-arqueologicos-no-sertao-de-central-na-bahia-revelam-vestigios-pre-historicos-de-milhares-de-anos/</link>
-    <guid isPermaLink="true">https://midiamax.com.br/trends/2026/10/31/sitios-arqueologicos-no-sertao-de-central-na-bahia-revelam-vestigios-pre-historicos-de-milhares-de-anos/</guid>
-    <description><![CDATA[<div>Sítios arqueológicos no sertão de Central na Bahia revelam vestígios pré-históricos de milhares de anos</div>]]></description>
-    <content:encoded><![CDATA[<div>Sítios arqueológicos no sertão de Central na Bahia revelam vestígios pré-históricos de milhares de anos</div>]]></content:encoded>
-    <dc:creator><![CDATA[Midiamax]]></dc:creator>
-    <pubDate>Sat, 31 Oct 2026 16:40:03 +0000</pubDate>
-    
   </item>
 </channel>
 </rss>

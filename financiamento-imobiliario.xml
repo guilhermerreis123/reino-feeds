@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 07 Nov 2026 15:41:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 16:40:51 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Alta dos juros empurra crédito para o SFI e trava uso do FGTS na casa própria]]></title>
+    <link>https://jc.uol.com.br/colunas/metro-quadrado/2026/11/03/alta-dos-juros-empurra-credito-para-o-sfi-e-trava-uso-do-fgts-na-casa-propria.html</link>
+    <guid isPermaLink="true">https://jc.uol.com.br/colunas/metro-quadrado/2026/11/03/alta-dos-juros-empurra-credito-para-o-sfi-e-trava-uso-do-fgts-na-casa-propria.html</guid>
+    <description><![CDATA[<div><img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/14/gm140622010-21213231.jpg" style="width: 100%;" /><div>Pressionados pelo custo elevado de captação no cenário macroeconômico, bancos privados como Santander, Itaú e Bradesco elevaram muito os juros</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/14/gm140622010-21213231.jpg" style="width: 100%;" /><div>Pressionados pelo custo elevado de captação no cenário macroeconômico, bancos privados como Santander, Itaú e Bradesco elevaram muito os juros</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[JC]]></dc:creator>
+    <pubDate>Sat, 07 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/14/gm140622010-21213231.jpg" />
+  </item>
   <item>
     <title><![CDATA[BC interrompe ciclo de quedas e mantém Selic em 13,75% ao ano, em 1ª reunião após eleições presidenciais]]></title>
     <link>https://portas.com.br/noticias/bc-mantem-selic-em-1375-ao-ano-em-1a-reuniao-apos-eleicoes-presidenciais/</link>
@@ -135,16 +145,6 @@
     <dc:creator><![CDATA[VEJA]]></dc:creator>
     <pubDate>Sun, 01 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://veja.abril.com.br/wp-content/uploads/2022/04/GettyImages-1301795433.jpg?quality=70&amp;strip=info&amp;resize=1200,630&amp;crop=1" />
-  </item>
-  <item>
-    <title><![CDATA[Juro do financiamento imobiliário subiu. Quem tem crédito aprovado paga a nova taxa?]]></title>
-    <link>https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</link>
-    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</guid>
-    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" style="width: 100%;" /><div>Bancos dão respostas diferentes, e o momento da assinatura do contrato do financiamento pode pesar no bolso</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" style="width: 100%;" /><div>Bancos dão respostas diferentes, e o momento da assinatura do contrato do financiamento pode pesar no bolso</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Exame]]></dc:creator>
-    <pubDate>Sat, 31 Oct 2026 16:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" />
   </item>
 </channel>
 </rss>

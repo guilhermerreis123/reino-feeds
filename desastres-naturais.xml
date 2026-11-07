@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 07 Nov 2026 15:41:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 16:40:51 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Quase 75% dos municípios de SC estão em áreas de risco para inundações]]></title>
+    <link>https://www.cnnbrasil.com.br/nacional/sul/sc/quase-75-dos-municipios-de-sc-estao-em-areas-de-risco-para-inundacoes/</link>
+    <guid isPermaLink="true">https://www.cnnbrasil.com.br/nacional/sul/sc/quase-75-dos-municipios-de-sc-estao-em-areas-de-risco-para-inundacoes/</guid>
+    <description><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/DJI_20261102110309_0011_W-e1793809817253.jpeg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Levantamento do Cemaden indica que 218 cidades catarinenses abrigam mais de 482 mil habitantes vulneráveis a desastres naturais; cidade enfrentou dois tornados nos últimos dias</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/DJI_20261102110309_0011_W-e1793809817253.jpeg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Levantamento do Cemaden indica que 218 cidades catarinenses abrigam mais de 482 mil habitantes vulneráveis a desastres naturais; cidade enfrentou dois tornados nos últimos dias</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
+    <pubDate>Sat, 07 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/DJI_20261102110309_0011_W-e1793809817253.jpeg?w=1200&amp;h=630&amp;crop=1" />
+  </item>
   <item>
     <title><![CDATA[Forte temporal causa destruição em 17 cidades do Paraná, diz Defesa Civil]]></title>
     <link>https://www.canalrural.com.br/videos/forte-temporal-causa-destruicao-em-17-cidades-do-parana-diz-defesa-civil/</link>

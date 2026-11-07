@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 07 Nov 2026 10:40:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 11:41:42 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Com o fim da escala 6x1, preço do imóvel subirá 5,5% em média, diz Abrainc]]></title>
+    <link>https://www.cnnbrasil.com.br/economia/money/macroeconomia/com-o-fim-da-escala-6x1-preco-do-imovel-subira-55-em-media-diz-abrainc/</link>
+    <guid isPermaLink="true">https://www.cnnbrasil.com.br/economia/money/macroeconomia/com-o-fim-da-escala-6x1-preco-do-imovel-subira-55-em-media-diz-abrainc/</guid>
+    <description><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/BR_CNN_110626_ZOOM_LUIZ_FRANCA_frame_36646.jpg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Luiz França, presidente da Abrainc (Associação Brasileira de Incorporadoras Imobiliárias), alerta que a mudança na jornada de trabalho pode retirar 2,5 milhões de famílias do mercado imobiliário</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/BR_CNN_110626_ZOOM_LUIZ_FRANCA_frame_36646.jpg?w=1200&amp;h=630&amp;crop=1" style="width: 100%;" /><div>Luiz França, presidente da Abrainc (Associação Brasileira de Incorporadoras Imobiliárias), alerta que a mudança na jornada de trabalho pode retirar 2,5 milhões de famílias do mercado imobiliário</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
+    <pubDate>Sat, 07 Nov 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/BR_CNN_110626_ZOOM_LUIZ_FRANCA_frame_36646.jpg?w=1200&amp;h=630&amp;crop=1" />
+  </item>
   <item>
     <title><![CDATA[Juro do financiamento imobiliário subiu. Quem tem crédito aprovado paga a nova taxa?]]></title>
     <link>https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</link>
@@ -65,16 +75,6 @@
     <dc:creator><![CDATA[O GLOBO]]></dc:creator>
     <pubDate>Sun, 01 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://s2-oglobo.glbimg.com/zxEKKO7laIrKn7U2so-s4NGXFag=/636x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/9/M/AA19A2RbG8dXQDFBCXnA/imoveis-fgts.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Financiamento imobiliário fica mais caro no Brasil. Bradesco, Itaú e Santander elevam juros após disparada das taxas futuras]]></title>
-    <link>https://br.advfn.com/jornal/2026/10/financiamento-imobiliario-fica-mais-caro-no-brasil-bradesco-itau-e-santander-elevam-juros-apos-disparada-das-taxas-futuras</link>
-    <guid isPermaLink="true">https://br.advfn.com/jornal/2026/10/financiamento-imobiliario-fica-mais-caro-no-brasil-bradesco-itau-e-santander-elevam-juros-apos-disparada-das-taxas-futuras</guid>
-    <description><![CDATA[<div><img src="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" style="width: 100%;" /><div>O financiamento imobiliário ficou mais caro no Brasil após uma forte alta dos juros futuros no mercado financeiro. Bradesco, Itaú Unibanco e...</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" style="width: 100%;" /><div>O financiamento imobiliário ficou mais caro no Brasil após uma forte alta dos juros futuros no mercado financeiro. Bradesco, Itaú Unibanco e...</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[ADVFN]]></dc:creator>
-    <pubDate>Sat, 31 Oct 2026 11:40:03 +0000</pubDate>
-    <media:content medium="image" url="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" />
   </item>
 </channel>
 </rss>

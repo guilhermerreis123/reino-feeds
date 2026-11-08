@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:40:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:40:44 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Arqueólogos encontram cidade subterrânea em sítio arqueológico no Egito]]></title>
     <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/arqueologos-encontram-cidade-subterranea-em-sitio-arqueologico-no-egito.phtml</link>
@@ -125,16 +125,6 @@
     <dc:creator><![CDATA[Correio Braziliense]]></dc:creator>
     <pubDate>Mon, 02 Nov 2026 16:40:02 +0000</pubDate>
     <media:content medium="image" url="https://www.correiobraziliense.com.br/cbradar/wp-content/uploads/2026/11/Roman_inscription_on_marble_slab_21905e65_1280x720.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Ex-peão de comitiva de Alcinópolis comprou uma câmera, saiu de moto pelas grutas e encontrou 17 sítios de arte rupestre que elevaram de 24 para 41 o total registrado no Iphan]]></title>
-    <link>https://midiamax.com.br/trends/2026/10/31/ex-peao-de-comitiva-de-alcinopolis-comprou-uma-camera-saiu-de-moto-pelas-grutas-e-encontrou-17-sitios-de-arte-rupestre-que-elevaram-de-24-para-41-o-total-registrado-no-iphan/</link>
-    <guid isPermaLink="true">https://midiamax.com.br/trends/2026/10/31/ex-peao-de-comitiva-de-alcinopolis-comprou-uma-camera-saiu-de-moto-pelas-grutas-e-encontrou-17-sitios-de-arte-rupestre-que-elevaram-de-24-para-41-o-total-registrado-no-iphan/</guid>
-    <description><![CDATA[<div>Ex-peão de comitiva de Alcinópolis comprou uma câmera, saiu de moto pelas grutas e encontrou 17 sítios de arte rupestre que elevaram de 24 para 41 o total registrado no Iphan</div>]]></description>
-    <content:encoded><![CDATA[<div>Ex-peão de comitiva de Alcinópolis comprou uma câmera, saiu de moto pelas grutas e encontrou 17 sítios de arte rupestre que elevaram de 24 para 41 o total registrado no Iphan</div>]]></content:encoded>
-    <dc:creator><![CDATA[Midiamax]]></dc:creator>
-    <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
-    
   </item>
 </channel>
 </rss>

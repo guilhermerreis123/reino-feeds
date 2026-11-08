@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:40:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:40:44 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027]]></title>
+    <link>https://www.boqnews.com/nacional/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027/</link>
+    <guid isPermaLink="true">https://www.boqnews.com/nacional/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027/</guid>
+    <description><![CDATA[<div><img src="https://www.boqnews.com/wp-content/uploads/2025/10/fgts-e1759925399875.jpg" style="width: 100%;" /><div>Conselho Curador mantém os recursos destinados à moradia no mesmo patamar de 2026 e prevê R$ 13 bilhões em subsídios para famílias de baixa renda. Regra de transição do saque-aniversário também ganha novo prazo</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.boqnews.com/wp-content/uploads/2025/10/fgts-e1759925399875.jpg" style="width: 100%;" /><div>Conselho Curador mantém os recursos destinados à moradia no mesmo patamar de 2026 e prevê R$ 13 bilhões em subsídios para famílias de baixa renda. Regra de transição do saque-aniversário também ganha novo prazo</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Boqnews]]></dc:creator>
+    <pubDate>Sun, 08 Nov 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://www.boqnews.com/wp-content/uploads/2025/10/fgts-e1759925399875.jpg" />
+  </item>
   <item>
     <title><![CDATA[Selic trava a 13,75%: o que muda para quem quer financiar imóvel?]]></title>
     <link>https://valorinveste.globo.com/produtos/imoveis/noticia/2026/11/05/selic-trava-a-1375percent-o-que-muda-para-quem-quer-financiar-imovel.ghtml</link>
@@ -135,16 +145,6 @@
     <dc:creator><![CDATA[Claudio Dantas]]></dc:creator>
     <pubDate>Mon, 02 Nov 2026 11:40:05 +0000</pubDate>
     <media:content medium="image" url="https://claudiodantas.com.br/wp-content/uploads/2026/10/image-3.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Eventual tributação de LCI e LIG pode encarecer crédito imobiliário em 0,7 ponto percentual, estima Abrainc]]></title>
-    <link>https://valor.globo.com/financas/noticia/2026/10/30/eventual-tributao-de-lci-e-lig-pode-encarecer-crdito-imobilirio-em-07-ponto-percentual-estima-abrainc.ghtml</link>
-    <guid isPermaLink="true">https://valor.globo.com/financas/noticia/2026/10/30/eventual-tributao-de-lci-e-lig-pode-encarecer-crdito-imobilirio-em-07-ponto-percentual-estima-abrainc.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-valor.glbimg.com/nggBd0nx-NKWL1-wZ43yC1GPtp4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/P/2/Aw012KRuCj7k3AZzxZDA/jakub-zerdzicki-3hfgnypfwqq-unsplash.jpg" style="width: 100%;" /><div>Na avaliação da associação, o efeito arrecadatório líquido da medida, caso seja implementada, seria negativo</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-valor.glbimg.com/nggBd0nx-NKWL1-wZ43yC1GPtp4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/P/2/Aw012KRuCj7k3AZzxZDA/jakub-zerdzicki-3hfgnypfwqq-unsplash.jpg" style="width: 100%;" /><div>Na avaliação da associação, o efeito arrecadatório líquido da medida, caso seja implementada, seria negativo</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Valor Econômico]]></dc:creator>
-    <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://s2-valor.glbimg.com/nggBd0nx-NKWL1-wZ43yC1GPtp4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/P/2/Aw012KRuCj7k3AZzxZDA/jakub-zerdzicki-3hfgnypfwqq-unsplash.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:40:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:40:44 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Com tornados no RS e alagamentos no Sudeste, temporais mantêm Centro-Sul em alerta até domingo]]></title>
+    <link>https://www.brasildefato.com.br/2026/11/07/com-tornados-no-rs-e-alagamentos-no-sudeste-temporais-mantem-centro-sul-em-alerta-ate-domingo/</link>
+    <guid isPermaLink="true">https://www.brasildefato.com.br/2026/11/07/com-tornados-no-rs-e-alagamentos-no-sudeste-temporais-mantem-centro-sul-em-alerta-ate-domingo/</guid>
+    <description><![CDATA[<div><img src="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" style="width: 100%;" /><div>Os temporais que atingiram o Centro-Sul do Brasil neste sábado (7) provocaram tornados no Rio Grande do Sul, alagamentos em Santa Catarina e no Rio de Janeiro e quedas de árvores em São Paulo e no…</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" style="width: 100%;" /><div>Os temporais que atingiram o Centro-Sul do Brasil neste sábado (7) provocaram tornados no Rio Grande do Sul, alagamentos em Santa Catarina e no Rio de Janeiro e quedas de árvores em São Paulo e no…</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Brasil de Fato]]></dc:creator>
+    <pubDate>Sun, 08 Nov 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" />
+  </item>
   <item>
     <title><![CDATA[Defesa Civil alerta: condição de ALERTA para tempestade com vento e granizo nas proximidades de Barracão e Erechim]]></title>
     <link>https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-tempestade-com-vento-e-granizo-nas-proximidades-de-barracao-e-erechim</link>
@@ -27,16 +37,6 @@ P...</div></div>]]></content:encoded>
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Mon, 02 Nov 2026 16:40:02 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/TfODO2TU6TVi_QtnO9HtER22Tzg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/c4KB5jTFSBOyskWyAMxg/whatsapp-image-2026-11-02-at-10.59.30.jpeg" />
-  </item>
-  <item>
-    <title><![CDATA[Imagem aérea mostra áreas alagadas após cheia do Rio Guareí no interior de SP]]></title>
-    <link>https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/25/imagem-aerea-mostra-areas-alagadas-apos-cheia-do-rio-guarei-no-interior-de-sp.ghtml</link>
-    <guid isPermaLink="true">https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/25/imagem-aerea-mostra-areas-alagadas-apos-cheia-do-rio-guarei-no-interior-de-sp.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" style="width: 100%;" /><div>A chuva em Guareí atingiu 100 mm, volume esperado para todo o mês. O Rio Guareí transbordou, deixando 60 pessoas ilhadas e atingindo ao menos 40 casas.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" style="width: 100%;" /><div>A chuva em Guareí atingiu 100 mm, volume esperado para todo o mês. O Rio Guareí transbordou, deixando 60 pessoas ilhadas e atingindo ao menos 40 casas.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[G1]]></dc:creator>
-    <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://s2-g1.glbimg.com/GyrvbCl8dLQEEzRVR1F11tmkv3g=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/cvptsPSE2BHVBLsUpBDw/whatsapp-image-2026-10-25-at-13.31.45.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 15:40:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 16:40:44 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Anvisa alerta que melatonina em pastilhas e fitas sublinguais não é autorizada]]></title>
     <link>https://contilnetnoticias.com.br/saude/anvisa-alerta-que-melatonina-em-pastilhas-e-fitas-sublinguais-nao-e-autorizada/</link>
@@ -107,16 +107,6 @@ Facebook:   https://www.facebook.com/JornalDaRecord/
     <dc:creator><![CDATA[THMais]]></dc:creator>
     <pubDate>Tue, 03 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://thmais.com.br/wp-content/uploads/2026/10/TH-PORTAL-IMAGEM-12.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Anvisa proíbe venda de picolé com melatonina e suplemento de proteína]]></title>
-    <link>https://revistapegn.globo.com/negocios/noticia/2026/10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina.ghtml</link>
-    <guid isPermaLink="true">https://revistapegn.globo.com/negocios/noticia/2026/10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-pegn.glbimg.com/swK12Z4_1Daae_ctG6uaXfL3vWQ=/3220x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2025/I/E/IeBUIzT6WB2EdFhMxXpQ/anvisa-1.jpg" style="width: 100%;" /><div>Ingredientes não passaram por avaliação de segurança</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-pegn.glbimg.com/swK12Z4_1Daae_ctG6uaXfL3vWQ=/3220x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2025/I/E/IeBUIzT6WB2EdFhMxXpQ/anvisa-1.jpg" style="width: 100%;" /><div>Ingredientes não passaram por avaliação de segurança</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Pequenas Empresas & Grandes Negócios]]></dc:creator>
-    <pubDate>Sun, 01 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://s2-pegn.glbimg.com/swK12Z4_1Daae_ctG6uaXfL3vWQ=/3220x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2025/I/E/IeBUIzT6WB2EdFhMxXpQ/anvisa-1.jpg" />
   </item>
 </channel>
 </rss>

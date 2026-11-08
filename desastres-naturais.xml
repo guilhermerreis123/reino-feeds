@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 10:41:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 11:40:50 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Defesa Civil Nacional orienta brasileiros a estocar água e alimentos para 72 horas]]></title>
+    <link>https://www.gazetadopovo.com.br/brasil/defesa-civil-nacional-orienta-brasileiros-a-estocar-agua-e-alimentos-para-72-horas/</link>
+    <guid isPermaLink="true">https://www.gazetadopovo.com.br/brasil/defesa-civil-nacional-orienta-brasileiros-a-estocar-agua-e-alimentos-para-72-horas/</guid>
+    <description><![CDATA[<div><img src="https://media.gazetadopovo.com.br/2026/09/11104558/Tornado-em-Sao-Paulo_Defesa-Civil.jpeg" style="width: 100%;" /><div>Defesa Civil recomenda brasileiros estocar água e alimentos para 72 horas como preparação a eventos climáticos. Leia na Gazeta do Povo.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://media.gazetadopovo.com.br/2026/09/11104558/Tornado-em-Sao-Paulo_Defesa-Civil.jpeg" style="width: 100%;" /><div>Defesa Civil recomenda brasileiros estocar água e alimentos para 72 horas como preparação a eventos climáticos. Leia na Gazeta do Povo.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Gazeta do Povo]]></dc:creator>
+    <pubDate>Sun, 08 Nov 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://media.gazetadopovo.com.br/2026/09/11104558/Tornado-em-Sao-Paulo_Defesa-Civil.jpeg" />
+  </item>
   <item>
     <title><![CDATA[Quase 75% dos municípios de SC estão em áreas de risco para inundações]]></title>
     <link>https://www.cnnbrasil.com.br/nacional/sul/sc/quase-75-dos-municipios-de-sc-estao-em-areas-de-risco-para-inundacoes/</link>

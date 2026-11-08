@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/estadao-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:estadao.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 08 Nov 2026 10:41:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 11:40:50 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Taxa de condomínio dispara em SP e muda a conta na hora de escolher um imóvel]]></title>
+    <link>https://www.estadao.com.br/economia/negocios/taxa-de-condominio-dispara-em-sp-e-muda-a-conta-na-hora-de-escolher-um-imovel/</link>
+    <guid isPermaLink="true">https://www.estadao.com.br/economia/negocios/taxa-de-condominio-dispara-em-sp-e-muda-a-conta-na-hora-de-escolher-um-imovel/</guid>
+    <description><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/TR3TC5AWKFFGFLBRUGBOF3WZXU.jpg?quality=80&amp;auth=64d53420f4fdb7a7f846cc224a2ff8c04b5ea15144a2254fe5078ced5b9406ce&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Custo de morar em condomínios sobe acima da inflação, enquanto inadimplência atinge recorde no País; número de unidades e localização influencia preços</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/TR3TC5AWKFFGFLBRUGBOF3WZXU.jpg?quality=80&amp;auth=64d53420f4fdb7a7f846cc224a2ff8c04b5ea15144a2254fe5078ced5b9406ce&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Custo de morar em condomínios sobe acima da inflação, enquanto inadimplência atinge recorde no País; número de unidades e localização influencia preços</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Estadão]]></dc:creator>
+    <pubDate>Sun, 08 Nov 2026 11:40:06 +0000</pubDate>
+    <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/TR3TC5AWKFFGFLBRUGBOF3WZXU.jpg?quality=80&amp;auth=64d53420f4fdb7a7f846cc224a2ff8c04b5ea15144a2254fe5078ced5b9406ce&amp;width=1200&amp;height=630&amp;smart=true" />
+  </item>
   <item>
     <title><![CDATA[Crédito imobiliário deve crescer 25% em 2026, mesmo com juros altos – Engrenagens do Crescimento]]></title>
     <link>https://especiais.estadao.com.br/engrenagensdocrescimento/credito-imobiliario-deve-crescer-25-em-2026-mesmo-com-juros-altos/</link>

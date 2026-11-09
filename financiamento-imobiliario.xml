@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 16:40:45 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Painel na LARES projeta 2027 de crescimento moderado e aponta funding e mão de obra como gargalos - SECOVI-SP]]></title>
     <link>https://secovi.com.br/painel-na-lares-projeta-2027-de-crescimento-moderado-e-aponta-funding-e-mao-de-obra-como-gargalos/</link>
@@ -135,16 +135,6 @@
     <dc:creator><![CDATA[Contec Brasil]]></dc:creator>
     <pubDate>Tue, 03 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://contec.org.br/wp-content/uploads/2026/10/Juros-imobiliarios-em-alta-no-banco.png" />
-  </item>
-  <item>
-    <title><![CDATA[Financiamento imobiliário fica mais caro no Brasil. Bradesco, Itaú e Santander elevam juros após disparada das taxas futuras]]></title>
-    <link>https://br.advfn.com/jornal/2026/10/financiamento-imobiliario-fica-mais-caro-no-brasil-bradesco-itau-e-santander-elevam-juros-apos-disparada-das-taxas-futuras</link>
-    <guid isPermaLink="true">https://br.advfn.com/jornal/2026/10/financiamento-imobiliario-fica-mais-caro-no-brasil-bradesco-itau-e-santander-elevam-juros-apos-disparada-das-taxas-futuras</guid>
-    <description><![CDATA[<div><img src="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" style="width: 100%;" /><div>O financiamento imobiliário ficou mais caro no Brasil após uma forte alta dos juros futuros no mercado financeiro. Bradesco, Itaú Unibanco e...</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" style="width: 100%;" /><div>O financiamento imobiliário ficou mais caro no Brasil após uma forte alta dos juros futuros no mercado financeiro. Bradesco, Itaú Unibanco e...</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[ADVFN]]></dc:creator>
-    <pubDate>Mon, 02 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://br.advfn.com/jornal/files/2026/09/imovel-generico-2026-640x336.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/estadao-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:estadao.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 09 Nov 2026 10:40:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 11:40:46 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Demanda por galpões aumenta e vacância cai à mínima histórica; veja maiores ocupantes]]></title>
+    <link>https://www.estadao.com.br/economia/negocios/demanda-por-galpoes-aumenta-e-vacancia-cai-a-minima-historica-veja-maiores-ocupantes/</link>
+    <guid isPermaLink="true">https://www.estadao.com.br/economia/negocios/demanda-por-galpoes-aumenta-e-vacancia-cai-a-minima-historica-veja-maiores-ocupantes/</guid>
+    <description><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/IUMUAGL5MNABDBGUJCCBTSVQEQ.jpg?quality=80&amp;auth=95afe6a11e27b797e8d978290c73b3af2bfd456c35b0b13a180e18a23e594dba&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Preço de locação de empreendimentos também subiu, mas Brasil apresenta alto nível de concentração e falta de novos projetos</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/IUMUAGL5MNABDBGUJCCBTSVQEQ.jpg?quality=80&amp;auth=95afe6a11e27b797e8d978290c73b3af2bfd456c35b0b13a180e18a23e594dba&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Preço de locação de empreendimentos também subiu, mas Brasil apresenta alto nível de concentração e falta de novos projetos</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Estadão]]></dc:creator>
+    <pubDate>Mon, 09 Nov 2026 11:40:03 +0000</pubDate>
+    <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/IUMUAGL5MNABDBGUJCCBTSVQEQ.jpg?quality=80&amp;auth=95afe6a11e27b797e8d978290c73b3af2bfd456c35b0b13a180e18a23e594dba&amp;width=1200&amp;height=630&amp;smart=true" />
+  </item>
   <item>
     <title><![CDATA[Taxa de condomínio dispara em SP e muda a conta na hora de escolher um imóvel]]></title>
     <link>https://www.estadao.com.br/economia/negocios/taxa-de-condominio-dispara-em-sp-e-muda-a-conta-na-hora-de-escolher-um-imovel/</link>

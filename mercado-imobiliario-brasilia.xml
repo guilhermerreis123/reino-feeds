@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 09 Nov 2026 11:40:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:41:29 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Demanda por galpões aumenta e vacância cai à mínima histórica; veja maiores ocupantes]]></title>
     <link>https://www.estadao.com.br/economia/negocios/demanda-por-galpoes-aumenta-e-vacancia-cai-a-minima-historica-veja-maiores-ocupantes/</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[Brasil 247]]></dc:creator>
     <pubDate>Tue, 03 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.brasil247.com/wp-content/uploads/2026/10/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg?w=1200&amp;quality=88&amp;strip=all" />
-  </item>
-  <item>
-    <title><![CDATA[DF registra a menor inadimplência de aluguel do país -]]></title>
-    <link>https://mistobrasil.com/2026/10/31/df-registra-a-menor-inadimplencia-de-aluguel-do-pais/</link>
-    <guid isPermaLink="true">https://mistobrasil.com/2026/10/31/df-registra-a-menor-inadimplencia-de-aluguel-do-pais/</guid>
-    <description><![CDATA[<div><img src="https://mistobrasil.com/wp-content/uploads/2026/10/imovel-aluguel.jpg" style="width: 100%;" /><div>Especialistas apontam que a resiliência do mercado local convive com pressões inflacionárias e com o impacto dos juros elevados.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://mistobrasil.com/wp-content/uploads/2026/10/imovel-aluguel.jpg" style="width: 100%;" /><div>Especialistas apontam que a resiliência do mercado local convive com pressões inflacionárias e com o impacto dos juros elevados.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[- Misto Brasil]]></dc:creator>
-    <pubDate>Mon, 02 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://mistobrasil.com/wp-content/uploads/2026/10/imovel-aluguel.jpg" />
   </item>
 </channel>
 </rss>

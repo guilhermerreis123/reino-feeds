@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 09 Nov 2026 11:40:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:41:29 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Após polêmica, Defesa Civil diz que kit de emergência é medida preventiva]]></title>
     <link>https://www.cnnbrasil.com.br/nacional/brasil/apos-polemica-defesa-civil-diz-que-kit-de-emergencia-e-medida-preventiva/</link>
@@ -85,16 +85,6 @@
     <dc:creator><![CDATA[Gazeta do Povo]]></dc:creator>
     <pubDate>Wed, 04 Nov 2026 16:40:06 +0000</pubDate>
     <media:content medium="image" url="https://media.gazetadopovo.com.br/2026/11/04093039/tempestade.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Quase 900 municípios no Sul do país têm risco de inundações, aponta levantamento]]></title>
-    <link>https://noticias.r7.com/jr-na-tv/video/quase-900-municipios-no-sul-do-pais-tem-risco-de-inundacoes-aponta-levantamento-01112026/</link>
-    <guid isPermaLink="true">https://noticias.r7.com/jr-na-tv/video/quase-900-municipios-no-sul-do-pais-tem-risco-de-inundacoes-aponta-levantamento-01112026/</guid>
-    <description><![CDATA[<div><img src="https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F11-01-2026%2Ft_52ae3596baf24850ab0e7131d9f862e0_name_file_960x540_1600_v4_.jpg?smart=true&amp;auth=3a30d62e926a3c5da257a916c4ac02a25aa9eb3251065710d92db3b018c2158b&amp;width=1200&amp;height=630" style="width: 100%;" /><div>No Rio Grande do Sul, 346 dos 497 municípios apresentam algum nível de vulnerabilidade a desastres naturais relacionados à água</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F11-01-2026%2Ft_52ae3596baf24850ab0e7131d9f862e0_name_file_960x540_1600_v4_.jpg?smart=true&amp;auth=3a30d62e926a3c5da257a916c4ac02a25aa9eb3251065710d92db3b018c2158b&amp;width=1200&amp;height=630" style="width: 100%;" /><div>No Rio Grande do Sul, 346 dos 497 municípios apresentam algum nível de vulnerabilidade a desastres naturais relacionados à água</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[R7]]></dc:creator>
-    <pubDate>Mon, 02 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F11-01-2026%2Ft_52ae3596baf24850ab0e7131d9f862e0_name_file_960x540_1600_v4_.jpg?smart=true&amp;auth=3a30d62e926a3c5da257a916c4ac02a25aa9eb3251065710d92db3b018c2158b&amp;width=1200&amp;height=630" />
   </item>
 </channel>
 </rss>

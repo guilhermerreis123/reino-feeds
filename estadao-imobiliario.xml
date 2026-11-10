@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/estadao-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:estadao.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 10 Nov 2026 11:40:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 12:41:08 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Tributação de aluguel: como fica o pagamento de impostos sobre locação de imóveis a partir de 2027]]></title>
     <link>https://www.estadao.com.br/em-alta/economia/duquesa-de-tax/tributacao-aluguel-como-fica-impostos-locacao-imoveis-2027/</link>
@@ -35,16 +35,6 @@
     <dc:creator><![CDATA[Estadão]]></dc:creator>
     <pubDate>Sun, 08 Nov 2026 11:40:06 +0000</pubDate>
     <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/TR3TC5AWKFFGFLBRUGBOF3WZXU.jpg?quality=80&amp;auth=64d53420f4fdb7a7f846cc224a2ff8c04b5ea15144a2254fe5078ced5b9406ce&amp;width=1200&amp;height=630&amp;smart=true" />
-  </item>
-  <item>
-    <title><![CDATA[Crédito imobiliário deve crescer 25% em 2026, mesmo com juros altos – Engrenagens do Crescimento]]></title>
-    <link>https://especiais.estadao.com.br/engrenagensdocrescimento/credito-imobiliario-deve-crescer-25-em-2026-mesmo-com-juros-altos/</link>
-    <guid isPermaLink="true">https://especiais.estadao.com.br/engrenagensdocrescimento/credito-imobiliario-deve-crescer-25-em-2026-mesmo-com-juros-altos/</guid>
-    <description><![CDATA[<div><img src="https://especiais.estadao.com.br/engrenagensdocrescimento/wp-content/uploads/2026/10/GettyImages-1376721550-1200x675.jpg" style="width: 100%;" /><div>Abecip aponta R$ 411 bilhões em concessões, com expansão dos financiamentos pelo SBPE e dos recursos destinados à habitação</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://especiais.estadao.com.br/engrenagensdocrescimento/wp-content/uploads/2026/10/GettyImages-1376721550-1200x675.jpg" style="width: 100%;" /><div>Abecip aponta R$ 411 bilhões em concessões, com expansão dos financiamentos pelo SBPE e dos recursos destinados à habitação</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Estadão]]></dc:creator>
-    <pubDate>Tue, 03 Nov 2026 11:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://especiais.estadao.com.br/engrenagensdocrescimento/wp-content/uploads/2026/10/GettyImages-1376721550-1200x675.jpg" />
   </item>
 </channel>
 </rss>

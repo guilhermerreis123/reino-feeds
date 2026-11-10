@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 10 Nov 2026 16:41:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:40:34 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Escondida por 2.300 anos, tumba monumental pode revelar segredos de antigo culto a uma deusa grega]]></title>
     <link>https://www.cnnbrasil.com.br/curiosidades/escondida-por-2-300-anos-tumba-monumental-pode-revelar-segredos-de-antigo-culto-a-uma-deusa-grega/</link>
@@ -115,16 +115,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Wed, 04 Nov 2026 11:40:05 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-1.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[O túmulo com 2.000 anos que surgiu onde ninguém esperava encontrá-lo: entre as bancadas de um teatro antigo]]></title>
-    <link>https://www.nationalgeographic.pt/historia/tumulo-2000-anos-que-surgiu-onde-ninguem-esperava-encontra-lo-entre-bancadas-teatro-antigo_7658</link>
-    <guid isPermaLink="true">https://www.nationalgeographic.pt/historia/tumulo-2000-anos-que-surgiu-onde-ninguem-esperava-encontra-lo-entre-bancadas-teatro-antigo_7658</guid>
-    <description><![CDATA[<div>O túmulo com 2.000 anos que surgiu onde ninguém esperava encontrá-lo: entre as bancadas de um teatro antigo</div>]]></description>
-    <content:encoded><![CDATA[<div>O túmulo com 2.000 anos que surgiu onde ninguém esperava encontrá-lo: entre as bancadas de um teatro antigo</div>]]></content:encoded>
-    <dc:creator><![CDATA[National Geographic Portugal]]></dc:creator>
-    <pubDate>Tue, 03 Nov 2026 16:40:08 +0000</pubDate>
-    
   </item>
 </channel>
 </rss>

@@ -5,7 +5,16 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/construcao-civil.xml</link>
   <description><![CDATA[As notícias mais importantes de "construção civil" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 10 Nov 2026 10:40:56 +0000</lastBuildDate>
-
+  <lastBuildDate>Tue, 10 Nov 2026 11:40:32 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Falta de mão de obra gera "apagão" na construção civil]]></title>
+    <link>https://www.jornaldocomercio.com/especiais/construcao-civil/2026/11/1269051-falta-de-mao-de-obra-gera-apagao-na-construcao-civil.html</link>
+    <guid isPermaLink="true">https://www.jornaldocomercio.com/especiais/construcao-civil/2026/11/1269051-falta-de-mao-de-obra-gera-apagao-na-construcao-civil.html</guid>
+    <description><![CDATA[<div><img src="https://www.jornaldocomercio.com/_midias/jpg/2024/10/01/tm_011024_vagas_trabalho__1_-10810193.jpg" style="width: 100%;" /><div>Setor enfrenta envelhecimento da mão de obra e prevê aumento dos custos com possível redução da jornada de trabalho.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.jornaldocomercio.com/_midias/jpg/2024/10/01/tm_011024_vagas_trabalho__1_-10810193.jpg" style="width: 100%;" /><div>Setor enfrenta envelhecimento da mão de obra e prevê aumento dos custos com possível redução da jornada de trabalho.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Jornal do Comércio]]></dc:creator>
+    <pubDate>Tue, 10 Nov 2026 11:40:05 +0000</pubDate>
+    <media:content medium="image" url="https://www.jornaldocomercio.com/_midias/jpg/2024/10/01/tm_011024_vagas_trabalho__1_-10810193.jpg" />
+  </item>
 </channel>
 </rss>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 11 Nov 2026 10:40:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 11:41:07 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Cartas de jogo do século 13 são encontradas intactas em naufrágio no Japão]]></title>
+    <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/cartas-de-jogo-do-seculo-13-sao-encontradas-intactas-em-naufragio-no-japao.ghtml</link>
+    <guid isPermaLink="true">https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/cartas-de-jogo-do-seculo-13-sao-encontradas-intactas-em-naufragio-no-japao.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/iHHEQCesj-zR5v6YPTvVcmW2bu8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/E/6/exx4UmQUizvJuoao52uA/news-20261106-japan-die.jpg" style="width: 100%;" /><div>Objetos históricos foram recuperados de embarcação afundada durante tentativa de invasão ao Japão em 1281, podem revelar aspectos da vida cotidiana dos soldados durante o conflito</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/iHHEQCesj-zR5v6YPTvVcmW2bu8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/E/6/exx4UmQUizvJuoao52uA/news-20261106-japan-die.jpg" style="width: 100%;" /><div>Objetos históricos foram recuperados de embarcação afundada durante tentativa de invasão ao Japão em 1281, podem revelar aspectos da vida cotidiana dos soldados durante o conflito</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Globo]]></dc:creator>
+    <pubDate>Wed, 11 Nov 2026 11:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://s2-galileu.glbimg.com/iHHEQCesj-zR5v6YPTvVcmW2bu8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/E/6/exx4UmQUizvJuoao52uA/news-20261106-japan-die.jpg" />
+  </item>
   <item>
     <title><![CDATA[Escondida por 2.300 anos, tumba monumental pode revelar segredos de antigo culto a uma deusa grega]]></title>
     <link>https://www.cnnbrasil.com.br/curiosidades/escondida-por-2-300-anos-tumba-monumental-pode-revelar-segredos-de-antigo-culto-a-uma-deusa-grega/</link>
@@ -105,16 +115,6 @@
     <dc:creator><![CDATA[Midiamax]]></dc:creator>
     <pubDate>Wed, 04 Nov 2026 16:40:06 +0000</pubDate>
     
-  </item>
-  <item>
-    <title><![CDATA[Primeiros vestígios da Grande Muralha da Dinastia Sui são achados em Pequim]]></title>
-    <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/primeiros-vestigios-da-grande-muralha-da-dinastia-sui-sao-achados-em-pequim.phtml</link>
-    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/historia-hoje/primeiros-vestigios-da-grande-muralha-da-dinastia-sui-sao-achados-em-pequim.phtml</guid>
-    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-1.jpg" style="width: 100%;" /><div>Escavações em antigo posto militar revelam artefatos que comprovam o uso de uma fortificação durante a China medieval; confira!</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-1.jpg" style="width: 100%;" /><div>Escavações em antigo posto militar revelam artefatos que comprovam o uso de uma fortificação durante a China medieval; confira!</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
-    <pubDate>Wed, 04 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-1.jpg" />
   </item>
 </channel>
 </rss>

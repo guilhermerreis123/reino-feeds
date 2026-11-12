@@ -5,7 +5,16 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alteracoes-climaticas.xml</link>
   <description><![CDATA[As notícias mais importantes de "alterações climáticas" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 12 Nov 2026 10:40:47 +0000</lastBuildDate>
-
+  <lastBuildDate>Thu, 12 Nov 2026 11:41:05 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Desmatamento e mudanças climáticas ameaçam produtividade da soja e da carne brasileira, aponta estudo do WRI]]></title>
+    <link>https://umsoplaneta.globo.com/clima/noticia/2026/11/11/desmatamento-e-mudancas-climaticas-ameacam-produtividade-da-soja-e-da-carne-brasileira-aponta-estudo-do-wri.ghtml</link>
+    <guid isPermaLink="true">https://umsoplaneta.globo.com/clima/noticia/2026/11/11/desmatamento-e-mudancas-climaticas-ameacam-produtividade-da-soja-e-da-carne-brasileira-aponta-estudo-do-wri.ghtml</guid>
+    <description><![CDATA[<div><img src="https://s2-umsoplaneta.glbimg.com/ttqrUcz9hQCXF2or4ymiurkJ1Mc=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/J/Z/c6CAKqSOehUusK4YcZnw/soja-valendo-gettyimages-1302023249.jpg" style="width: 100%;" /><div>Pesquisa apresentada na COP31 mostra que estação chuvosa encolheu em até 75 dias em áreas da Amazônia e 45 dias no Cerrado</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://s2-umsoplaneta.glbimg.com/ttqrUcz9hQCXF2or4ymiurkJ1Mc=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/J/Z/c6CAKqSOehUusK4YcZnw/soja-valendo-gettyimages-1302023249.jpg" style="width: 100%;" /><div>Pesquisa apresentada na COP31 mostra que estação chuvosa encolheu em até 75 dias em áreas da Amazônia e 45 dias no Cerrado</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Um só Planeta]]></dc:creator>
+    <pubDate>Thu, 12 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://s2-umsoplaneta.glbimg.com/ttqrUcz9hQCXF2or4ymiurkJ1Mc=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2026/J/Z/c6CAKqSOehUusK4YcZnw/soja-valendo-gettyimages-1302023249.jpg" />
+  </item>
 </channel>
 </rss>

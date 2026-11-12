@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/exame-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:exame.com imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 12 Nov 2026 10:40:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 11:41:05 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Selic estaciona em 13,75%, mas bancos já cobram até 15% na casa própria]]></title>
     <link>https://exame.com/mercado-imobiliario/selic-estaciona-em-1375-mas-bancos-ja-cobram-ate-15-na-casa-propria/</link>
@@ -15,16 +15,6 @@
     <dc:creator><![CDATA[Exame]]></dc:creator>
     <pubDate>Sat, 07 Nov 2026 11:40:06 +0000</pubDate>
     <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2026/11/Chaves-para-um-novo-lar.png" />
-  </item>
-  <item>
-    <title><![CDATA[Juro do financiamento imobiliário subiu. Quem tem crédito aprovado paga a nova taxa?]]></title>
-    <link>https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</link>
-    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/juro-do-financiamento-imobiliario-subiu-quem-tem-credito-aprovado-paga-a-nova-taxa/</guid>
-    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" style="width: 100%;" /><div>Bancos dão respostas diferentes, e o momento da assinatura do contrato do financiamento pode pesar no bolso</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" style="width: 100%;" /><div>Bancos dão respostas diferentes, e o momento da assinatura do contrato do financiamento pode pesar no bolso</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Exame]]></dc:creator>
-    <pubDate>Thu, 05 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2025/06/MG_2034.jpg" />
   </item>
 </channel>
 </rss>

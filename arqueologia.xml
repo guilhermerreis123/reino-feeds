@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 12 Nov 2026 10:40:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 11:41:05 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Estátua de sacerdotisa com 1.500 anos é encontrada no Japão]]></title>
     <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</link>
@@ -105,16 +105,6 @@
     <dc:creator><![CDATA[Diário da Guanabara]]></dc:creator>
     <pubDate>Thu, 05 Nov 2026 16:40:02 +0000</pubDate>
     <media:content medium="image" url="https://dgrj.com.br/wp-content/uploads/2024/04/Arqueo-logia-dinossauros.png" />
-  </item>
-  <item>
-    <title><![CDATA[Imagens de satélite revelam cidade escondida de 2,6 mil anos no Egito]]></title>
-    <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/imagens-de-satelite-revelam-cidade-escondida-de-26-mil-anos-no-egito.ghtml</link>
-    <guid isPermaLink="true">https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/imagens-de-satelite-revelam-cidade-escondida-de-26-mil-anos-no-egito.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/6w6B9mzdyS4r2OKqVZw4bDxMpio=/2029x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/i/6/4rTpuUTDySEln6UME42A/11600-2026-1809-fig7-html.jpeg" style="width: 100%;" /><div>Técnicas de investigação do subsolo identificaram uma construção de possíveis funções religiosas sob antigas camadas de sedimentos no Delta do Nilo</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/6w6B9mzdyS4r2OKqVZw4bDxMpio=/2029x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/i/6/4rTpuUTDySEln6UME42A/11600-2026-1809-fig7-html.jpeg" style="width: 100%;" /><div>Técnicas de investigação do subsolo identificaram uma construção de possíveis funções religiosas sob antigas camadas de sedimentos no Delta do Nilo</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Globo]]></dc:creator>
-    <pubDate>Thu, 05 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://s2-galileu.glbimg.com/6w6B9mzdyS4r2OKqVZw4bDxMpio=/2029x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/i/6/4rTpuUTDySEln6UME42A/11600-2026-1809-fig7-html.jpeg" />
   </item>
 </channel>
 </rss>

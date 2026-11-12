@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:41:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:41:15 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Espada de 3.300 anos é encontrada em lago formado por cratera vulcânica na Itália]]></title>
+    <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/espada-de-3-300-anos-e-encontrada-em-lago-formado-por-cratera-vulcanica-na-italia.phtml</link>
+    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/historia-hoje/espada-de-3-300-anos-e-encontrada-em-lago-formado-por-cratera-vulcanica-na-italia.phtml</guid>
+    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-81.png" style="width: 100%;" /><div>Artefato do século 13 a.C. foi resgatado durante uma escavação subaquática no Lago Mezzano, onde outras armas antigas também foram encontradas</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-81.png" style="width: 100%;" /><div>Artefato do século 13 a.C. foi resgatado durante uma escavação subaquática no Lago Mezzano, onde outras armas antigas também foram encontradas</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
+    <pubDate>Thu, 12 Nov 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-81.png" />
+  </item>
   <item>
     <title><![CDATA[Estátua de sacerdotisa com 1.500 anos é encontrada no Japão]]></title>
     <link>https://revistagalileu.globo.com/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</link>
@@ -95,16 +105,6 @@
     <dc:creator><![CDATA[Globo]]></dc:creator>
     <pubDate>Fri, 06 Nov 2026 11:40:02 +0000</pubDate>
     <media:content medium="image" url="https://s2-galileu.glbimg.com/bxYK2PpcbtEUglnz3yL2TZudLWM=/1594x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/T/T/qiV5NaRUmC9Mny0XlAaA/hundreds-of-ice-age-ro.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Arqueologia: Desenhos de 9 mil anos encontrados em cidade do Rio Grande do Norte]]></title>
-    <link>https://dgrj.com.br/internacional/arqueologia-desenhos-de-9-mil-anos-encontrados-em-cidade-do-rio-grande-do-norte</link>
-    <guid isPermaLink="true">https://dgrj.com.br/internacional/arqueologia-desenhos-de-9-mil-anos-encontrados-em-cidade-do-rio-grande-do-norte</guid>
-    <description><![CDATA[<div><img src="https://dgrj.com.br/wp-content/uploads/2024/04/Arqueo-logia-dinossauros.png" style="width: 100%;" /><div>Um grupo de pesquisadores da Universidade Federal do Rio Grande do Norte (UFRN) apresentou um estudo em que descreve artes</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://dgrj.com.br/wp-content/uploads/2024/04/Arqueo-logia-dinossauros.png" style="width: 100%;" /><div>Um grupo de pesquisadores da Universidade Federal do Rio Grande do Norte (UFRN) apresentou um estudo em que descreve artes</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Diário da Guanabara]]></dc:creator>
-    <pubDate>Thu, 05 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://dgrj.com.br/wp-content/uploads/2024/04/Arqueo-logia-dinossauros.png" />
   </item>
 </channel>
 </rss>

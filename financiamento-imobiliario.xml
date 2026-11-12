@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:41:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:41:15 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Poupança do SBPE perde R$ 7,58 bilhões em outubro e completa cinco meses seguidos de saída líquida]]></title>
+    <link>https://portas.com.br/noticias/poupanca-sbpe-saida-outubro/</link>
+    <guid isPermaLink="true">https://portas.com.br/noticias/poupanca-sbpe-saida-outubro/</guid>
+    <description><![CDATA[<div><img src="https://uploads.portas.com.br/2026/11/ArLawKa-AungTun-iStock.jpg" style="width: 100%;" /><div>Os saques superaram os depósitos em R$ 7,58 bilhões em outubro, segundo o Banco Central. O estoque caiu para R$ 753 bilhões e o cenário preocupa o setor de crédito imobiliário.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://uploads.portas.com.br/2026/11/ArLawKa-AungTun-iStock.jpg" style="width: 100%;" /><div>Os saques superaram os depósitos em R$ 7,58 bilhões em outubro, segundo o Banco Central. O estoque caiu para R$ 753 bilhões e o cenário preocupa o setor de crédito imobiliário.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[portas.com.br]]></dc:creator>
+    <pubDate>Thu, 12 Nov 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://uploads.portas.com.br/2026/11/ArLawKa-AungTun-iStock.jpg" />
+  </item>
   <item>
     <title><![CDATA[Alta dos juros imobiliários pode encarecer parcela em até R$ 2,4 mil]]></title>
     <link>https://valorinveste.globo.com/produtos/credito/noticia/2026/11/12/alta-dos-juros-imobiliarios-pode-encarecer-parcela-em-ate-r-24-mil.ghtml</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
     <pubDate>Fri, 06 Nov 2026 11:40:02 +0000</pubDate>
     <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/11/df47f6c60669a1ee3a0b6eeab63077a9.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Selic estaciona em 13,75%, mas bancos já cobram até 15% na casa própria]]></title>
-    <link>https://exame.com/mercado-imobiliario/selic-estaciona-em-1375-mas-bancos-ja-cobram-ate-15-na-casa-propria/</link>
-    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/selic-estaciona-em-1375-mas-bancos-ja-cobram-ate-15-na-casa-propria/</guid>
-    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/11/Chaves-para-um-novo-lar.png" style="width: 100%;" /><div>Copom interrompe ciclo de cinco cortes; na semana anterior, Bradesco, Itaú e Santander subiram o juro do financiamento acima do teto do SFH</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2026/11/Chaves-para-um-novo-lar.png" style="width: 100%;" /><div>Copom interrompe ciclo de cinco cortes; na semana anterior, Bradesco, Itaú e Santander subiram o juro do financiamento acima do teto do SFH</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Exame]]></dc:creator>
-    <pubDate>Thu, 05 Nov 2026 16:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2026/11/Chaves-para-um-novo-lar.png" />
   </item>
 </channel>
 </rss>

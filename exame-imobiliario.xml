@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/exame-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:exame.com imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 13 Nov 2026 10:36:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 11:33:48 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Minha Casa, Minha Vida já responde por 7 em cada 10 imóveis vendidos em São Paulo]]></title>
+    <link>https://exame.com/mercado-imobiliario/minha-casa-minha-vida-ja-responde-por-7-em-cada-10-imoveis-vendidos-em-sao-paulo/</link>
+    <guid isPermaLink="true">https://exame.com/mercado-imobiliario/minha-casa-minha-vida-ja-responde-por-7-em-cada-10-imoveis-vendidos-em-sao-paulo/</guid>
+    <description><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2023/03/39128873345_462abfe09f_o.jpg" style="width: 100%;" /><div>Lançamentos crescem mais que vendas, e estoque do programa salta 65% em um ano</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://classic.exame.com/wp-content/uploads/2023/03/39128873345_462abfe09f_o.jpg" style="width: 100%;" /><div>Lançamentos crescem mais que vendas, e estoque do programa salta 65% em um ano</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Exame]]></dc:creator>
+    <pubDate>Fri, 13 Nov 2026 11:32:45 +0000</pubDate>
+    <media:content medium="image" url="https://classic.exame.com/wp-content/uploads/2023/03/39128873345_462abfe09f_o.jpg" />
+  </item>
   <item>
     <title><![CDATA[Selic estaciona em 13,75%, mas bancos já cobram até 15% na casa própria]]></title>
     <link>https://exame.com/mercado-imobiliario/selic-estaciona-em-1375-mas-bancos-ja-cobram-ate-15-na-casa-propria/</link>

@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 14 Nov 2026 15:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 16:41:03 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Armas de caça envenenadas de 125 mil anos são descobertas na Arábia]]></title>
+    <link>https://aventurasnahistoria.com.br/noticias/historia-hoje/armas-de-caca-envenenadas-de-125-mil-anos-sao-descobertas-na-arabia.phtml</link>
+    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/historia-hoje/armas-de-caca-envenenadas-de-125-mil-anos-sao-descobertas-na-arabia.phtml</guid>
+    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/ponta.jpg" style="width: 100%;" /><div>Pontas de pedra de 125 mil anos contêm resíduos de planta tóxica utilizada na Península Arábica e podem redefinir história da caça pré-histórica</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/ponta.jpg" style="width: 100%;" /><div>Pontas de pedra de 125 mil anos contêm resíduos de planta tóxica utilizada na Península Arábica e podem redefinir história da caça pré-histórica</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
+    <pubDate>Sat, 14 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/ponta.jpg" />
+  </item>
   <item>
     <title><![CDATA[Naufrágio a 2.567 metros no Mediterrâneo bate recorde de profundidade em águas francesas e revela carga antiga]]></title>
     <link>https://olhardigital.com.br/curiosidades/2026/11/11/naufragio-a-2-567-metros-no-mediterraneo-bate-recorde-de-profundidade-em-aguas-francesas-e-revela-carga-antiga/</link>
@@ -85,16 +95,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Sun, 08 Nov 2026 11:40:06 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-06T152442.373.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Estátua de sacerdotisa com 1.500 anos é encontrada no Japão]]></title>
-    <link>https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</link>
-    <guid isPermaLink="true">https://revistagalileu.globo.com/google/amp/ciencia/arqueologia/noticia/2026/11/estatua-de-sacerdotisa-com-1500-anos-e-encontrada-no-japao.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" style="width: 100%;" /><div>Figura de argila com detalhes minuciosos pode representar uma miko, mulher que atuava como intermediária entre os mundos humano e espiritual durante o período Kofun</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" style="width: 100%;" /><div>Figura de argila com detalhes minuciosos pode representar uma miko, mulher que atuava como intermediária entre os mundos humano e espiritual durante o período Kofun</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Globo]]></dc:creator>
-    <pubDate>Sat, 07 Nov 2026 16:40:07 +0000</pubDate>
-    <media:content medium="image" url="https://s2-galileu.glbimg.com/VyiMrpzsgCnXTYImDM7z5KWy7kQ=/1024x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_fde5cd494fb04473a83fa5fd57ad4542/internal_photos/bs/2026/V/x/JOVur4TGCw28Eo6TXJQw/miiush97umhy7w3rvggq9o-1024-80.png.jpg" />
   </item>
 </channel>
 </rss>

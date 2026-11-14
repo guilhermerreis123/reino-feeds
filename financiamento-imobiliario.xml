@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 14 Nov 2026 11:40:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 12:41:16 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Caixa estuda reajuste dos juros no financiamento imobiliário, diz VP do banco]]></title>
     <link>https://www.moneytimes.com.br/caixa-estuda-reajuste-dos-juros-no-financiamento-imobiliario-diz-ines-magalhaes/</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[JC]]></dc:creator>
     <pubDate>Sat, 07 Nov 2026 16:40:07 +0000</pubDate>
     <media:content medium="image" url="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/14/gm140622010-21213231.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[BC interrompe ciclo de quedas e mantém Selic em 13,75% ao ano, em 1ª reunião após eleições presidenciais]]></title>
-    <link>https://portas.com.br/noticias/bc-mantem-selic-em-1375-ao-ano-em-1a-reuniao-apos-eleicoes-presidenciais/</link>
-    <guid isPermaLink="true">https://portas.com.br/noticias/bc-mantem-selic-em-1375-ao-ano-em-1a-reuniao-apos-eleicoes-presidenciais/</guid>
-    <description><![CDATA[<div><img src="https://uploads.portas.com.br/2026/11/selic-1536x1024.jpg" style="width: 100%;" /><div>Antes da decisão que manteve a taxa básica de juros, bancos privados já haviam subido o custo de financiamentos imobiliários; entenda</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://uploads.portas.com.br/2026/11/selic-1536x1024.jpg" style="width: 100%;" /><div>Antes da decisão que manteve a taxa básica de juros, bancos privados já haviam subido o custo de financiamentos imobiliários; entenda</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[portas.com.br]]></dc:creator>
-    <pubDate>Sat, 07 Nov 2026 11:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://uploads.portas.com.br/2026/11/selic-1536x1024.jpg" />
   </item>
 </channel>
 </rss>

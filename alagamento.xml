@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/alagamento.xml</link>
   <description><![CDATA[As notícias mais importantes de "alagamento" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 15 Nov 2026 15:40:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 16:40:40 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Temporal com granizo em SP derruba árvores, deixa 104 mil imóveis sem luz e causa alagamentos]]></title>
     <link>https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/11/13/temporal-com-granizo-em-sp-derruba-arvores-deixa-49-mil-imoveis-sem-luz-e-caus-alagamentos.ghtml</link>
@@ -35,16 +35,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Mon, 09 Nov 2026 16:40:07 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/_6v0d-NfiaBnYXx_I0XbW9Q5jSs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/n/NmRkPdT7ujG3yGMN09Fw/imagem-cortada-54-.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Com tornados no RS e alagamentos no Sudeste, temporais mantêm Centro-Sul em alerta até domingo]]></title>
-    <link>https://www.brasildefato.com.br/2026/11/07/com-tornados-no-rs-e-alagamentos-no-sudeste-temporais-mantem-centro-sul-em-alerta-ate-domingo/</link>
-    <guid isPermaLink="true">https://www.brasildefato.com.br/2026/11/07/com-tornados-no-rs-e-alagamentos-no-sudeste-temporais-mantem-centro-sul-em-alerta-ate-domingo/</guid>
-    <description><![CDATA[<div><img src="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" style="width: 100%;" /><div>Os temporais que atingiram o Centro-Sul do Brasil neste sábado (7) provocaram tornados no Rio Grande do Sul, alagamentos em Santa Catarina e no Rio de Janeiro e quedas de árvores em São Paulo e no…</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" style="width: 100%;" /><div>Os temporais que atingiram o Centro-Sul do Brasil neste sábado (7) provocaram tornados no Rio Grande do Sul, alagamentos em Santa Catarina e no Rio de Janeiro e quedas de árvores em São Paulo e no…</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Brasil de Fato]]></dc:creator>
-    <pubDate>Sun, 08 Nov 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://www.brasildefato.com.br/wp-content/uploads/2026/11/captura-de-tela-2026-11-07-154305-7a5bb222.webp" />
   </item>
 </channel>
 </rss>

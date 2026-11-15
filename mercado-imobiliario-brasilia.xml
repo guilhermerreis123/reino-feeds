@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 15 Nov 2026 11:40:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 12:41:11 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Descontos na compra de imóveis avançam, enquanto intenção de compra recua no Brasil]]></title>
     <link>https://paraibabusiness.com.br/descontos-na-compra-de-imoveis-avancam-enquanto-intencao-de-compra-recua-no-brasil/</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[Estadão]]></dc:creator>
     <pubDate>Mon, 09 Nov 2026 11:40:03 +0000</pubDate>
     <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/IUMUAGL5MNABDBGUJCCBTSVQEQ.jpg?quality=80&amp;auth=95afe6a11e27b797e8d978290c73b3af2bfd456c35b0b13a180e18a23e594dba&amp;width=1200&amp;height=630&amp;smart=true" />
-  </item>
-  <item>
-    <title><![CDATA[Mutirão gratuito orienta população do DF para evitar golpes imobiliários]]></title>
-    <link>https://www.metropoles.com/distrito-federal/mutirao-gratuito-orienta-populacao-do-df-a-evitar-golpes-imobiliarios</link>
-    <guid isPermaLink="true">https://www.metropoles.com/distrito-federal/mutirao-gratuito-orienta-populacao-do-df-a-evitar-golpes-imobiliarios</guid>
-    <description><![CDATA[<div><img src="https://i.metroimg.com/GBFyRX34eN2BtERBTDCsskSYp6IrXYU61dDAON3DNec/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/05/emprestimo_financiamento_imovel.jpg" style="width: 100%;" /><div>Ação gratuita será realizada neste sábado (7/11), das 10h às 16h, no Shopping Conjunto Nacional, em Brasília</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://i.metroimg.com/GBFyRX34eN2BtERBTDCsskSYp6IrXYU61dDAON3DNec/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/05/emprestimo_financiamento_imovel.jpg" style="width: 100%;" /><div>Ação gratuita será realizada neste sábado (7/11), das 10h às 16h, no Shopping Conjunto Nacional, em Brasília</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Metrópoles]]></dc:creator>
-    <pubDate>Sun, 08 Nov 2026 11:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://i.metroimg.com/GBFyRX34eN2BtERBTDCsskSYp6IrXYU61dDAON3DNec/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/05/emprestimo_financiamento_imovel.jpg" />
   </item>
 </channel>
 </rss>

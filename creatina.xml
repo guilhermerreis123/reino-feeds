@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/creatina.xml</link>
   <description><![CDATA[As notícias mais importantes de "creatina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 17 Nov 2026 16:41:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 17:41:38 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Anvisa proíbe venda e uso de lotes de creatina e outros suplementos alimentares; veja lista]]></title>
     <link>https://mojunews.com/anvisa-proibe-venda-e-uso-de-lotes-de-creatina-e-outros-suplementos-alimentares-veja-lista/</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[Âncora 1]]></dc:creator>
     <pubDate>Wed, 11 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://ancora1.com/site/views/_data/news/anvisa-probe-lotes-de-mega-3-e-creatina-dux-por-suspeita-de-falsificao-veja-quais-so-1794147745.png" />
-  </item>
-  <item>
-    <title><![CDATA[Anvisa identifica lote falsificado de creatina da DUX]]></title>
-    <link>https://panoramafarmaceutico.com.br/anvisa-identifica-lote-falsificado-de-creatina-da-dux/</link>
-    <guid isPermaLink="true">https://panoramafarmaceutico.com.br/anvisa-identifica-lote-falsificado-de-creatina-da-dux/</guid>
-    <description><![CDATA[<div><img src="https://panoramafarmaceutico.com.br/wp-content/uploads/2026/11/lote-falsificado-dux-anvisa.webp" style="width: 100%;" /><div>Lote K52354A do suplemento de 300 gramas não foi reconhecido pela fabricante. Confira na íntegra!</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://panoramafarmaceutico.com.br/wp-content/uploads/2026/11/lote-falsificado-dux-anvisa.webp" style="width: 100%;" /><div>Lote K52354A do suplemento de 300 gramas não foi reconhecido pela fabricante. Confira na íntegra!</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Panorama Farmacêutico]]></dc:creator>
-    <pubDate>Tue, 10 Nov 2026 16:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://panoramafarmaceutico.com.br/wp-content/uploads/2026/11/lote-falsificado-dux-anvisa.webp" />
   </item>
 </channel>
 </rss>

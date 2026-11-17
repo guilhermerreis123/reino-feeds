@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/estadao-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:estadao.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 17 Nov 2026 10:41:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 11:40:43 +0000</lastBuildDate>
   <item>
     <title><![CDATA[MRV bate recorde de receita no 3T26 e tem maior margem em sete anos; lucro salta 75%]]></title>
     <link>https://www.estadao.com.br/einvestidor/cenarios-e-mercado/mrv-bate-recorde-de-receita-no-3t26-e-tem-maior-margem-em-sete-anos-lucro-salta-75/</link>
@@ -25,16 +25,6 @@
     <dc:creator><![CDATA[Estadão]]></dc:creator>
     <pubDate>Wed, 11 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/QTYOEQ5OXVC2JC5KCAK6O4KRWY.JPG?quality=80&amp;auth=f5fb44fcef77b5e8ed9745e9a727a684b687d911a836bbf541a39dce83bc27e4&amp;width=1200&amp;height=630&amp;smart=true" />
-  </item>
-  <item>
-    <title><![CDATA[Tributação de aluguel: como fica o pagamento de impostos sobre locação de imóveis a partir de 2027]]></title>
-    <link>https://www.estadao.com.br/em-alta/economia/duquesa-de-tax/tributacao-aluguel-como-fica-impostos-locacao-imoveis-2027/</link>
-    <guid isPermaLink="true">https://www.estadao.com.br/em-alta/economia/duquesa-de-tax/tributacao-aluguel-como-fica-impostos-locacao-imoveis-2027/</guid>
-    <description><![CDATA[<div><img src="https://assets.estadao.com.br/image/logo-estadao16-9.png" style="width: 100%;" /><div>Tributação de aluguel: como fica o pagamento de impostos sobre locação de imóveis a partir de 2027</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://assets.estadao.com.br/image/logo-estadao16-9.png" style="width: 100%;" /><div>Tributação de aluguel: como fica o pagamento de impostos sobre locação de imóveis a partir de 2027</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Estadão]]></dc:creator>
-    <pubDate>Tue, 10 Nov 2026 11:40:05 +0000</pubDate>
-    <media:content medium="image" url="https://assets.estadao.com.br/image/logo-estadao16-9.png" />
   </item>
 </channel>
 </rss>

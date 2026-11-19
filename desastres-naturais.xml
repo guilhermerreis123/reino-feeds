@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/desastres-naturais.xml</link>
   <description><![CDATA[As notícias mais importantes de "desastres naturais" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 19 Nov 2026 15:40:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 16:41:23 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[19/11/2026 - Previsão de Riscos Geo-Hidrológicos]]></title>
+    <link>https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/19-11-2026-previsao-de-riscos-geo-hidrologicos-1</link>
+    <guid isPermaLink="true">https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/19-11-2026-previsao-de-riscos-geo-hidrologicos-1</guid>
+    <description><![CDATA[<div><img src="https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/19-11-2026-previsao-de-riscos-geo-hidrologicos-1/destaque.jpeg/@@images/aff34615-665b-444a-93b1-e4a7dc6ebed4.jpeg" style="width: 100%;" /><div>19/11/2026 - Previsão de Riscos Geo-Hidrológicos</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/19-11-2026-previsao-de-riscos-geo-hidrologicos-1/destaque.jpeg/@@images/aff34615-665b-444a-93b1-e4a7dc6ebed4.jpeg" style="width: 100%;" /><div>19/11/2026 - Previsão de Riscos Geo-Hidrológicos</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[GOV.BR]]></dc:creator>
+    <pubDate>Thu, 19 Nov 2026 16:40:04 +0000</pubDate>
+    <media:content medium="image" url="https://www.gov.br/cemaden/pt-br/assuntos/riscos-geo-hidrologicos/19-11-2026-previsao-de-riscos-geo-hidrologicos-1/destaque.jpeg/@@images/aff34615-665b-444a-93b1-e4a7dc6ebed4.jpeg" />
+  </item>
   <item>
     <title><![CDATA[Jornal Midiamax. . Pesquisa do IBGE (Instituto Brasileiro de Geografia e Estatística) revela que 77 das 79 cidades de Mato Grosso do Sul enfrentaram algum desastre natural entre 2021 e 2024. No entanto, 26 municípios (33%) não têm plano de prevenção p]]></title>
     <link>https://www.facebook.com/midiamax/videos/pesquisa-do-ibge-instituto-brasileiro-de-geografia-e-estat%C3%ADstica-revela-que-77-d/1591154796099106/</link>
@@ -25,16 +35,6 @@
     <dc:creator><![CDATA[Mercado e Eventos]]></dc:creator>
     <pubDate>Sat, 14 Nov 2026 16:40:07 +0000</pubDate>
     <media:content medium="image" url="https://www.mercadoeeventos.com.br/wp-content/uploads/2026/11/1_7536687-0f5e20d098794d5187f8f6a952232403-68194698.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Defesa Civil dá dicas do que fazer em casos de desastres naturais]]></title>
-    <link>https://g1.globo.com/google/amp/rj/sul-do-rio-costa-verde/videos-rj1-tv-rio-sul/video/defesa-civil-da-dicas-do-que-fazer-em-casos-de-desastres-naturais-15178973.ghtml</link>
-    <guid isPermaLink="true">https://g1.globo.com/google/amp/rj/sul-do-rio-costa-verde/videos-rj1-tv-rio-sul/video/defesa-civil-da-dicas-do-que-fazer-em-casos-de-desastres-naturais-15178973.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s02.video.glbimg.com/x720/15178973.jpg" style="width: 100%;" /><div>Itens ajudam a enfrentar situações de emergência por 72h até a chegada do socorro.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s02.video.glbimg.com/x720/15178973.jpg" style="width: 100%;" /><div>Itens ajudam a enfrentar situações de emergência por 72h até a chegada do socorro.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[G1]]></dc:creator>
-    <pubDate>Thu, 12 Nov 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://s02.video.glbimg.com/x720/15178973.jpg" />
   </item>
 </channel>
 </rss>

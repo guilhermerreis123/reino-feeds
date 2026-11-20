@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 20 Nov 2026 10:44:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 11:40:57 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Tumba de 2.000 anos na Mongólia revela conexões comerciais entre Roma e China]]></title>
+    <link>https://aventurasnahistoria.com.br/noticias/arqueologia/tumba-de-2-000-anos-na-mongolia-revela-conexoes-comerciais-entre-roma-e-china.phtml</link>
+    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/arqueologia/tumba-de-2-000-anos-na-mongolia-revela-conexoes-comerciais-entre-roma-e-china.phtml</guid>
+    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/mongolia.jpg" style="width: 100%;" /><div>Tumba de elite do Império Xiongnu reunia mais de 400 objetos funerários que revelam laços comerciais entre Roma e China há 2.000 anos na Mongólia</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/mongolia.jpg" style="width: 100%;" /><div>Tumba de elite do Império Xiongnu reunia mais de 400 objetos funerários que revelam laços comerciais entre Roma e China há 2.000 anos na Mongólia</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
+    <pubDate>Fri, 20 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/mongolia.jpg" />
+  </item>
   <item>
     <title><![CDATA[Soberania genética na arqueologia inspirou criação do primeiro laboratório de DNA antigo do Brasil]]></title>
     <link>https://blogantenado.com/soberania-genetica-na-arqueologia-inspirou-criacao-do-primeiro-laboratorio-de-dna-antigo-do-brasil-2/</link>
@@ -105,16 +115,6 @@
     <dc:creator><![CDATA[Olhar Digital]]></dc:creator>
     <pubDate>Sat, 14 Nov 2026 11:40:05 +0000</pubDate>
     <media:content medium="image" url="https://olhardigital.com.br/curiosidades/wp-content/uploads/2026/11/6-Naufragio-e-ROV-subaquatico-dis-3aa.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Preservado por 2 mil anos: escavação revela 'spa sagrado' e ritual de purificação na época de Jesus]]></title>
-    <link>https://www.cnnbrasil.com.br/curiosidades/preservado-por-2-mil-anos-escavacao-revela-spa-sagrado-e-ritual-de-purificacao-na-epoca-de-jesus/</link>
-    <guid isPermaLink="true">https://www.cnnbrasil.com.br/curiosidades/preservado-por-2-mil-anos-escavacao-revela-spa-sagrado-e-ritual-de-purificacao-na-epoca-de-jesus/</guid>
-    <description><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/complexo-de-banhos-jerusalem-e1794498617734.png?w=738&amp;h=466&amp;crop=1" style="width: 100%;" /><div>Uma das salas foi encontrada em excelente estado de conservação, mantendo a altura original e o poço por onde era abastecida com água</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/complexo-de-banhos-jerusalem-e1794498617734.png?w=738&amp;h=466&amp;crop=1" style="width: 100%;" /><div>Uma das salas foi encontrada em excelente estado de conservação, mantendo a altura original e o poço por onde era abastecida com água</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[CNN Brasil]]></dc:creator>
-    <pubDate>Fri, 13 Nov 2026 11:32:45 +0000</pubDate>
-    <media:content medium="image" url="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/complexo-de-banhos-jerusalem-e1794498617734.png?w=738&amp;h=466&amp;crop=1" />
   </item>
 </channel>
 </rss>

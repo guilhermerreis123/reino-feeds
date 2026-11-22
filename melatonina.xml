@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 22 Nov 2026 15:40:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:40:24 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Anvisa suspende venda de suplementos de três empresas, entre eles melatonina em spray; veja a lista]]></title>
+    <link>https://www.meon.com.br/noticias/brasil/anvisa-suspende-venda-suplementos-tres-empresas-melatonina-spray</link>
+    <guid isPermaLink="true">https://www.meon.com.br/noticias/brasil/anvisa-suspende-venda-suplementos-tres-empresas-melatonina-spray</guid>
+    <description><![CDATA[<div><img src="https://www.meon.com.br/og/2026/11/suplementos-capsulas-ilustrativa-jernej-furman-1200x630.jpg" style="width: 100%;" /><div>Resoluções publicadas nesta terça (17) atingem Norvy, Nutrymed e Morbach; orientação é suspender o uso dos produtos</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.meon.com.br/og/2026/11/suplementos-capsulas-ilustrativa-jernej-furman-1200x630.jpg" style="width: 100%;" /><div>Resoluções publicadas nesta terça (17) atingem Norvy, Nutrymed e Morbach; orientação é suspender o uso dos produtos</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[MEON]]></dc:creator>
+    <pubDate>Sun, 22 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://www.meon.com.br/og/2026/11/suplementos-capsulas-ilustrativa-jernej-furman-1200x630.jpg" />
+  </item>
   <item>
     <title><![CDATA[Anvisa suspende melatonina em spray e suplementos de outras duas empresas]]></title>
     <link>https://www.opovo.com.br/noticias/brasil/2026/11/17/anvisa-suspende-melatonina-em-spray-e-suplementos-de-outras-duas-empresas.html</link>
@@ -105,16 +115,6 @@
     <dc:creator><![CDATA[G1]]></dc:creator>
     <pubDate>Tue, 17 Nov 2026 11:40:08 +0000</pubDate>
     <media:content medium="image" url="https://s2-g1.glbimg.com/c2AyOuq8BXKrizDcAKY7i7NoL6o=/4997x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/I/1/90JqVBSoWsNAkjZc68dQ/2021-01-12t220145z-1-lynxmpeh0b1jv-rtroptp-4-health-coronavirus-brazil-anvisa.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Melatonina em fitas e gomas não é autorizada no Brasil; entenda as regras]]></title>
-    <link>https://www.estadao.com.br/em-alta/pulsa/autocuidado/melatonina-em-fitas-e-gomas-nao-e-autorizada-no-brasil-entenda-as-regras-nprm/</link>
-    <guid isPermaLink="true">https://www.estadao.com.br/em-alta/pulsa/autocuidado/melatonina-em-fitas-e-gomas-nao-e-autorizada-no-brasil-entenda-as-regras-nprm/</guid>
-    <description><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/HEYCI7FFBZC2HA2VRFQOSEQ5HU.jpeg?quality=80&amp;auth=c753452393b371de8017e60116ac496d8a20fa0e02206c4b3c922dc73c5236f0&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Hormônio pode ser vendido como suplemento alimentar, mas autorização não inclui promessas de tratar insônia</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/HEYCI7FFBZC2HA2VRFQOSEQ5HU.jpeg?quality=80&amp;auth=c753452393b371de8017e60116ac496d8a20fa0e02206c4b3c922dc73c5236f0&amp;width=1200&amp;height=630&amp;smart=true" style="width: 100%;" /><div>Hormônio pode ser vendido como suplemento alimentar, mas autorização não inclui promessas de tratar insônia</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Estadão]]></dc:creator>
-    <pubDate>Sun, 15 Nov 2026 16:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/HEYCI7FFBZC2HA2VRFQOSEQ5HU.jpeg?quality=80&amp;auth=c753452393b371de8017e60116ac496d8a20fa0e02206c4b3c922dc73c5236f0&amp;width=1200&amp;height=630&amp;smart=true" />
   </item>
 </channel>
 </rss>

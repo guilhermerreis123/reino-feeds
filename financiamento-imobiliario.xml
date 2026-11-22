@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 22 Nov 2026 15:40:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:40:24 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Itaú (ITUB4) financiará imóveis no Minha Casa Minha Vida]]></title>
+    <link>https://investidor10.com.br/amp/noticias/itau-itub4-financiara-imoveis-no-minha-casa-minha-vida-124014/</link>
+    <guid isPermaLink="true">https://investidor10.com.br/amp/noticias/itau-itub4-financiara-imoveis-no-minha-casa-minha-vida-124014/</guid>
+    <description><![CDATA[<div><img src="https://investidor10.com.br/storage/news/6b01dbe123051.jpg" style="width: 100%;" /><div>A Caixa Econômica Federal é a primeira instituição financeira que vem à mente quando o assunto é financiar imóveis pelo programa habitacional Minha Casa Minha Vida,...</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://investidor10.com.br/storage/news/6b01dbe123051.jpg" style="width: 100%;" /><div>A Caixa Econômica Federal é a primeira instituição financeira que vem à mente quando o assunto é financiar imóveis pelo programa habitacional Minha Casa Minha Vida,...</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Investidor10]]></dc:creator>
+    <pubDate>Sun, 22 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://investidor10.com.br/storage/news/6b01dbe123051.jpg" />
+  </item>
   <item>
     <title><![CDATA[Distratos de imóveis na planta crescem 43% e somam R$ 1,75 bilhão no terceiro trimestre]]></title>
     <link>https://badevalor.com.br/distratos-de-imoveis-na-planta-crescem-43-e-somam-r-175-bilhao-no-terceiro-trimestre/</link>
@@ -65,16 +75,6 @@
     <dc:creator><![CDATA[feebpr.org.br]]></dc:creator>
     <pubDate>Tue, 17 Nov 2026 11:40:08 +0000</pubDate>
     <media:content medium="image" url="https://www.feebpr.org.br/images/image.php?src=https://feebpr.org.br/images/media/editorial/2026/11/9848027756afae2ab43677.jpg&amp;w=1200&amp;h=630&amp;zc=1&amp;cc=FFFFFF&amp;q=85" />
-  </item>
-  <item>
-    <title><![CDATA[Financiamento da casa própria pode ficar mais caro com reajuste estudado pela Caixa]]></title>
-    <link>https://www.gazetasp.com.br/economia/financiamento-da-casa-propria-pode-ficar-mais-caro-com-reajuste-estudado-pela-caixa/</link>
-    <guid isPermaLink="true">https://www.gazetasp.com.br/economia/financiamento-da-casa-propria-pode-ficar-mais-caro-com-reajuste-estudado-pela-caixa/</guid>
-    <description><![CDATA[<div><img src="https://cdn.gazetasp.com.br/uploads/2026/09/agencia-caixa-economica-foto-marcelo-camargo-agencia-brasil.jpg" style="width: 100%;" /><div>Caixa estuda reajustar os juros do financiamento imobiliário diante do aumento do custo de captação e dos reajustes feitos por bancos.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://cdn.gazetasp.com.br/uploads/2026/09/agencia-caixa-economica-foto-marcelo-camargo-agencia-brasil.jpg" style="width: 100%;" /><div>Caixa estuda reajustar os juros do financiamento imobiliário diante do aumento do custo de captação e dos reajustes feitos por bancos.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Gazeta de São Paulo]]></dc:creator>
-    <pubDate>Sun, 15 Nov 2026 16:40:06 +0000</pubDate>
-    <media:content medium="image" url="https://cdn.gazetasp.com.br/uploads/2026/09/agencia-caixa-economica-foto-marcelo-camargo-agencia-brasil.jpg" />
   </item>
 </channel>
 </rss>

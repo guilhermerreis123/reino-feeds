@@ -5,7 +5,16 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/pandemia.xml</link>
   <description><![CDATA[As notícias mais importantes de "pandemia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 22 Nov 2026 15:40:57 +0000</lastBuildDate>
-
+  <lastBuildDate>Sun, 22 Nov 2026 16:40:24 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Alerta viral: o que explica o aumento recente dos casos de covid-19 no Brasil]]></title>
+    <link>https://veja.abril.com.br/saude/alerta-viral-o-que-explica-o-aumento-recente-dos-casos-de-covid-19-no-brasil/</link>
+    <guid isPermaLink="true">https://veja.abril.com.br/saude/alerta-viral-o-que-explica-o-aumento-recente-dos-casos-de-covid-19-no-brasil/</guid>
+    <description><![CDATA[<div><img src="https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2292440099.jpg.jpg?quality=70&amp;strip=info&amp;resize=1200,630&amp;crop=1" style="width: 100%;" /><div>Vírus estava fora do radar dos brasileiros, mas ainda exige cuidado e vacinação</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2292440099.jpg.jpg?quality=70&amp;strip=info&amp;resize=1200,630&amp;crop=1" style="width: 100%;" /><div>Vírus estava fora do radar dos brasileiros, mas ainda exige cuidado e vacinação</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[VEJA]]></dc:creator>
+    <pubDate>Sun, 22 Nov 2026 16:40:07 +0000</pubDate>
+    <media:content medium="image" url="https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2292440099.jpg.jpg?quality=70&amp;strip=info&amp;resize=1200,630&amp;crop=1" />
+  </item>
 </channel>
 </rss>

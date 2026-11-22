@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario-brasilia.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário brasília" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:41:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 11:41:25 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Novas famílias impulsionam compactos e condomínios-clube]]></title>
+    <link>https://esbrasil.com.br/novos-arranjos-familiares-condominios-clube/</link>
+    <guid isPermaLink="true">https://esbrasil.com.br/novos-arranjos-familiares-condominios-clube/</guid>
+    <description><![CDATA[<div><img src="https://cdn.esbrasil.com.br/wp-content/uploads/2026/11/novas-familias-compactos-condominios-clube-170648.webp" style="width: 100%;" /><div>Novos arranjos familiares e envelhecimento diversificam os imóveis; condomínios-clube e compactos ganham espaço, e Brasil lança 453 mil unidades</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://cdn.esbrasil.com.br/wp-content/uploads/2026/11/novas-familias-compactos-condominios-clube-170648.webp" style="width: 100%;" /><div>Novos arranjos familiares e envelhecimento diversificam os imóveis; condomínios-clube e compactos ganham espaço, e Brasil lança 453 mil unidades</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[ES Brasil]]></dc:creator>
+    <pubDate>Sun, 22 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://cdn.esbrasil.com.br/wp-content/uploads/2026/11/novas-familias-compactos-condominios-clube-170648.webp" />
+  </item>
   <item>
     <title><![CDATA[Distratos, calotes e estoques maiores chacoalham balanços das incorporadoras]]></title>
     <link>https://www.estadao.com.br/economia/distratos-calotes-e-estoques-maiores-chacoalham-balancos-das-incorporadoras/</link>
@@ -55,16 +65,6 @@
     <dc:creator><![CDATA[A Gazeta]]></dc:creator>
     <pubDate>Tue, 17 Nov 2026 11:40:08 +0000</pubDate>
     <media:content medium="image" url="https://netdeal.com.br/api/images/proxy?quality=100&amp;width=1200&amp;src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1775075628699_2020_05_21_vila_velha_es_predios_na_orla_do_municipio_249989_article.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Descontos na compra de imóveis avançam, enquanto intenção de compra recua no Brasil]]></title>
-    <link>https://paraibabusiness.com.br/descontos-na-compra-de-imoveis-avancam-enquanto-intencao-de-compra-recua-no-brasil/</link>
-    <guid isPermaLink="true">https://paraibabusiness.com.br/descontos-na-compra-de-imoveis-avancam-enquanto-intencao-de-compra-recua-no-brasil/</guid>
-    <description><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/02/joao-pessoa-orla-predios.jpeg" style="width: 100%;" /><div>Pesquisa FipeZap mostra que 67% das transaÃ§Ãµes tiveram abatimento no terceiro trimestre de 2026; desconto mÃ©dio chegou a 13%, enquanto intenÃ§Ã£o de compra caiu para 35%</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/02/joao-pessoa-orla-predios.jpeg" style="width: 100%;" /><div>Pesquisa FipeZap mostra que 67% das transaÃ§Ãµes tiveram abatimento no terceiro trimestre de 2026; desconto mÃ©dio chegou a 13%, enquanto intenÃ§Ã£o de compra caiu para 35%</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Paraíba Business]]></dc:creator>
-    <pubDate>Sun, 15 Nov 2026 11:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://paraibabusiness.com.br/atual/wp-content/uploads/2026/02/joao-pessoa-orla-predios.jpeg" />
   </item>
 </channel>
 </rss>

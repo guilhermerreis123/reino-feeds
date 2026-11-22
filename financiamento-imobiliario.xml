@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sun, 22 Nov 2026 10:41:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 11:41:25 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Distratos de imóveis na planta crescem 43% e somam R$ 1,75 bilhão no terceiro trimestre]]></title>
+    <link>https://badevalor.com.br/distratos-de-imoveis-na-planta-crescem-43-e-somam-r-175-bilhao-no-terceiro-trimestre/</link>
+    <guid isPermaLink="true">https://badevalor.com.br/distratos-de-imoveis-na-planta-crescem-43-e-somam-r-175-bilhao-no-terceiro-trimestre/</guid>
+    <description><![CDATA[<div><img src="https://badevalor.com.br/wp-content/uploads/2026/11/SPOT-Barra-Salvador-BA-5.jpg" style="width: 100%;" /><div>Cancelamentos avançam entre incorporadoras do Minha Casa, Minha Vida, enquanto juros elevados, dificuldades no financiamento e inadimplência pressionam o mercado imobiliário.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://badevalor.com.br/wp-content/uploads/2026/11/SPOT-Barra-Salvador-BA-5.jpg" style="width: 100%;" /><div>Cancelamentos avançam entre incorporadoras do Minha Casa, Minha Vida, enquanto juros elevados, dificuldades no financiamento e inadimplência pressionam o mercado imobiliário.</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[BA de Valor]]></dc:creator>
+    <pubDate>Sun, 22 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://badevalor.com.br/wp-content/uploads/2026/11/SPOT-Barra-Salvador-BA-5.jpg" />
+  </item>
   <item>
     <title><![CDATA[Itaú vai financiar imóveis pelo Minha Casa Minha Vida; veja regras]]></title>
     <link>https://valorinveste.globo.com/produtos/imoveis/noticia/2026/11/20/itau-vai-financiar-imoveis-pelo-minha-casa-minha-vida-veja-regras.ghtml</link>
@@ -65,16 +75,6 @@
     <dc:creator><![CDATA[Gazeta de São Paulo]]></dc:creator>
     <pubDate>Sun, 15 Nov 2026 16:40:06 +0000</pubDate>
     <media:content medium="image" url="https://cdn.gazetasp.com.br/uploads/2026/09/agencia-caixa-economica-foto-marcelo-camargo-agencia-brasil.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Caixa estuda subir juros do financiamento imobiliário]]></title>
-    <link>https://aciara.com.br/caixa-estuda-subir-juros-do-financiamento-imobiliario/</link>
-    <guid isPermaLink="true">https://aciara.com.br/caixa-estuda-subir-juros-do-financiamento-imobiliario/</guid>
-    <description><![CDATA[<div><img src="https://aciara.com.br/wp-content/uploads/2026/11/INES.jpg" style="width: 100%;" /><div>A Caixa Econômica Federal avalia reajustar as taxas de juros do financiamento imobiliário diante da disponibilidade de recursos. A informação foi confirmada pela vice-presidente de Habitação, Inês Magalhães. O banco busca equilibrar o custo de captação com a expansão da carteira.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aciara.com.br/wp-content/uploads/2026/11/INES.jpg" style="width: 100%;" /><div>A Caixa Econômica Federal avalia reajustar as taxas de juros do financiamento imobiliário diante da disponibilidade de recursos. A informação foi confirmada pela vice-presidente de Habitação, Inês Magalhães. O banco busca equilibrar o custo de captação com a expansão da carteira.</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Acia Araçatuba]]></dc:creator>
-    <pubDate>Sun, 15 Nov 2026 11:40:02 +0000</pubDate>
-    <media:content medium="image" url="https://aciara.com.br/wp-content/uploads/2026/11/INES.jpg" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/melatonina.xml</link>
   <description><![CDATA[As notícias mais importantes de "melatonina" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 24 Nov 2026 16:41:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 17:40:18 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Anvisa suspende spray de melatonina e outros suplementos]]></title>
     <link>https://bhbfood.com/noticias/anvisa-suspende-spray-melatonina/</link>
@@ -125,16 +125,6 @@
     <dc:creator><![CDATA[Tribuna do Norte]]></dc:creator>
     <pubDate>Wed, 18 Nov 2026 11:40:07 +0000</pubDate>
     <media:content medium="image" url="https://storage.tribunadonorte.com.br/2026/11/ANVISA-SPRAY-MELATONINA.webp" />
-  </item>
-  <item>
-    <title><![CDATA[Anvisa manda recolher spray de melatonina e suplementos; veja quais produtos foram proibidos]]></title>
-    <link>https://oalagoano.com.br/noticias/2026/11/17/23332-anvisa-manda-recolher-spray-de-melatonina-e-suplementos-veja-quais-produtos-foram-proibidos</link>
-    <guid isPermaLink="true">https://oalagoano.com.br/noticias/2026/11/17/23332-anvisa-manda-recolher-spray-de-melatonina-e-suplementos-veja-quais-produtos-foram-proibidos</guid>
-    <description><![CDATA[<div><img src="https://img.dhost.cloud/jaa4_f6NNa-HhwLsVEZVFpbNhLU=/300x300/smart/https://oalagoano.nyc3.digitaloceanspaces.com/imagens/anvisa-3.webp" style="width: 100%;" /><div>Fiscalização encontrou falhas de fabricação, ingredientes não autorizados e problemas na documentação de produtos de três empresas</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://img.dhost.cloud/jaa4_f6NNa-HhwLsVEZVFpbNhLU=/300x300/smart/https://oalagoano.nyc3.digitaloceanspaces.com/imagens/anvisa-3.webp" style="width: 100%;" /><div>Fiscalização encontrou falhas de fabricação, ingredientes não autorizados e problemas na documentação de produtos de três empresas</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[O Alagoano]]></dc:creator>
-    <pubDate>Tue, 17 Nov 2026 16:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://img.dhost.cloud/jaa4_f6NNa-HhwLsVEZVFpbNhLU=/300x300/smart/https://oalagoano.nyc3.digitaloceanspaces.com/imagens/anvisa-3.webp" />
   </item>
 </channel>
 </rss>

@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 24 Nov 2026 11:41:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 12:41:15 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Vendas de imóveis para a classe média perdem fôlego no ano e 2027 não anima]]></title>
     <link>https://www.infomoney.com.br/minhas-financas/vendas-de-imoveis-para-a-classe-media-perdem-folego-no-ano-e-2027-nao-anima/</link>
@@ -85,16 +85,6 @@
     <dc:creator><![CDATA[InfoMoney]]></dc:creator>
     <pubDate>Tue, 17 Nov 2026 16:40:04 +0000</pubDate>
     <media:content medium="image" url="https://www.infomoney.com.br/wp-content/uploads/2026/01/INES.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Após bancos privados, Caixa faz as contas para subir taxa de juros do crédito imobiliário]]></title>
-    <link>https://www.feebpr.org.br/noticias/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario</link>
-    <guid isPermaLink="true">https://www.feebpr.org.br/noticias/apos-bancos-privados-caixa-faz-as-contas-para-subir-taxa-de-juros-do-credito-imobiliario</guid>
-    <description><![CDATA[<div><img src="https://www.feebpr.org.br/images/image.php?src=https://feebpr.org.br/images/media/editorial/2026/11/9848027756afae2ab43677.jpg&amp;w=1200&amp;h=630&amp;zc=1&amp;cc=FFFFFF&amp;q=85" style="width: 100%;" /><div>Nas últimas semanas, Bradesco, Itaú e Santander elevaram índice para até 13,60%, mais TR. Caixa está calculando quanto consegue absorver do aumento do custo de captação antes de repassá-lo ao comprador (Por Ana Paula...</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.feebpr.org.br/images/image.php?src=https://feebpr.org.br/images/media/editorial/2026/11/9848027756afae2ab43677.jpg&amp;w=1200&amp;h=630&amp;zc=1&amp;cc=FFFFFF&amp;q=85" style="width: 100%;" /><div>Nas últimas semanas, Bradesco, Itaú e Santander elevaram índice para até 13,60%, mais TR. Caixa está calculando quanto consegue absorver do aumento do custo de captação antes de repassá-lo ao comprador (Por Ana Paula...</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[feebpr.org.br]]></dc:creator>
-    <pubDate>Tue, 17 Nov 2026 11:40:08 +0000</pubDate>
-    <media:content medium="image" url="https://www.feebpr.org.br/images/image.php?src=https://feebpr.org.br/images/media/editorial/2026/11/9848027756afae2ab43677.jpg&amp;w=1200&amp;h=630&amp;zc=1&amp;cc=FFFFFF&amp;q=85" />
   </item>
 </channel>
 </rss>

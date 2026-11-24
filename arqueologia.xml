@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 24 Nov 2026 11:41:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 12:41:15 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Túmulo de elite revela conexões comerciais entre Roma e Coreia]]></title>
     <link>https://aventurasnahistoria.com.br/noticias/arqueologia/tumulo-de-elite-revela-conexoes-comerciais-entre-roma-e-coreia.phtml</link>
@@ -95,16 +95,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Tue, 17 Nov 2026 16:40:04 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-112.png" />
-  </item>
-  <item>
-    <title><![CDATA[Moeda secreta achada em um dos Cavalos de São Marcos reabre mistério antigo]]></title>
-    <link>https://aventurasnahistoria.com.br/noticias/arqueologia/moeda-secreta-achada-em-um-dos-cavalos-de-sao-marcos-reabre-misterio-antigo.phtml</link>
-    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/arqueologia/moeda-secreta-achada-em-um-dos-cavalos-de-sao-marcos-reabre-misterio-antigo.phtml</guid>
-    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-11.jpg" style="width: 100%;" /><div>Objeto esquecido por quatro décadas em depósito de museu pode alterar a datação das quatro esculturas de bronze em Veneza</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-11.jpg" style="width: 100%;" /><div>Objeto esquecido por quatro décadas em depósito de museu pode alterar a datação das quatro esculturas de bronze em Veneza</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
-    <pubDate>Tue, 17 Nov 2026 11:40:08 +0000</pubDate>
-    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-11.jpg" />
   </item>
 </channel>
 </rss>

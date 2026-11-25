@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/estadao-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "site:estadao.com.br imobiliário OR imóveis" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 25 Nov 2026 10:40:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 11:41:23 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Itaú entra no Minha Casa, Minha Vida e avança sobre mercado dominado pela Caixa]]></title>
+    <link>https://www.estadao.com.br/economia/negocios/itau-entra-no-minha-casa-minha-vida-e-avanca-sobre-mercado-dominado-pela-caixa/</link>
+    <guid isPermaLink="true">https://www.estadao.com.br/economia/negocios/itau-entra-no-minha-casa-minha-vida-e-avanca-sobre-mercado-dominado-pela-caixa/</guid>
+    <description><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/TVOLFRVBTZMA3CBG5P3TMBCA2Y.png?quality=80&amp;auth=d742bdfb8448ec4a1768fcf01837c0bbc08ce25e3ff3d8608da2e90b2274843b&amp;width=1200&amp;height=630&amp;focal=424,220" style="width: 100%;" /><div>O banco informa, em nota, que a oferta será destinada a clientes elegíveis à Faixa 3, com renda mensal entre R$ 5 mil e R$ 9,6 mil</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.estadao.com.br/resizer/v2/TVOLFRVBTZMA3CBG5P3TMBCA2Y.png?quality=80&amp;auth=d742bdfb8448ec4a1768fcf01837c0bbc08ce25e3ff3d8608da2e90b2274843b&amp;width=1200&amp;height=630&amp;focal=424,220" style="width: 100%;" /><div>O banco informa, em nota, que a oferta será destinada a clientes elegíveis à Faixa 3, com renda mensal entre R$ 5 mil e R$ 9,6 mil</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Estadão]]></dc:creator>
+    <pubDate>Wed, 25 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://www.estadao.com.br/resizer/v2/TVOLFRVBTZMA3CBG5P3TMBCA2Y.png?quality=80&amp;auth=d742bdfb8448ec4a1768fcf01837c0bbc08ce25e3ff3d8608da2e90b2274843b&amp;width=1200&amp;height=630&amp;focal=424,220" />
+  </item>
   <item>
     <title><![CDATA[Justiça condena Vitacon por entregar imóveis inacabados com habite-se]]></title>
     <link>https://www.estadao.com.br/economia/negocios/justica-condena-vitacon-por-entregar-imoveis-inacabados-com-habite-se/</link>

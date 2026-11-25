@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/arqueologia.xml</link>
   <description><![CDATA[As notícias mais importantes de "arqueologia" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:41:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 17:41:30 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Túmulo de quase 3 mil anos pode estar ligado ao herói Ajax]]></title>
     <link>https://aventurasnahistoria.com.br/noticias/arqueologia/tumulo-de-quase-3-mil-anos-pode-estar-ligado-ao-heroi-ajax.phtml</link>
@@ -75,16 +75,6 @@
     <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
     <pubDate>Thu, 19 Nov 2026 11:40:04 +0000</pubDate>
     <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Modelo-AH-1280_720-11-1.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Agronegócio ameaça apagar geoglifos milenares no sul do Amazonas]]></title>
-    <link>https://aventurasnahistoria.com.br/noticias/arqueologia/agronegocio-ameaca-apagar-geoglifos-milenares-no-sul-do-amazonas.phtml</link>
-    <guid isPermaLink="true">https://aventurasnahistoria.com.br/noticias/arqueologia/agronegocio-ameaca-apagar-geoglifos-milenares-no-sul-do-amazonas.phtml</guid>
-    <description><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-117.png" style="width: 100%;" /><div>Fiscalização do Iphan encontrou sinais de destruição em sítios arqueológicos de Boca do Acre e Lábrea, pressionados pela expansão agrícola</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-117.png" style="width: 100%;" /><div>Fiscalização do Iphan encontrou sinais de destruição em sítios arqueológicos de Boca do Acre e Lábrea, pressionados pela expansão agrícola</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Aventuras na História]]></dc:creator>
-    <pubDate>Wed, 18 Nov 2026 16:40:52 +0000</pubDate>
-    <media:content medium="image" url="https://aventurasnahistoria.com.br/wp-content/uploads/2026/11/Italian-Carabinieri-Press-OfficeAFP-117.png" />
   </item>
 </channel>
 </rss>

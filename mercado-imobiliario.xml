@@ -5,7 +5,7 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/mercado-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "mercado imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 26 Nov 2026 05:40:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 03:47:48 +0000</lastBuildDate>
   <item>
     <title><![CDATA[Minha Casa, Minha Vida bate recorde e concentra quase 60% dos imóveis lançados no país]]></title>
     <link>https://www1.folha.uol.com.br/mercado/2026/11/minha-casa-minha-vida-bate-recorde-e-concentra-quase-60-dos-imoveis-lancados-no-pais.shtml</link>
@@ -25,26 +25,6 @@
     <dc:creator><![CDATA[VEJA]]></dc:creator>
     <pubDate>Sat, 21 Nov 2026 17:40:07 +0000</pubDate>
     <media:content medium="image" url="https://veja.abril.com.br/wp-content/uploads/2025/10/23988459-high.jpg.jpg?quality=70&amp;strip=info&amp;resize=1200,630&amp;crop=1" />
-  </item>
-  <item>
-    <title><![CDATA[Judiciário, mercado e setor produtivo debatem na FIEB os desafios e oportunidades do Marco Legal das Garantias]]></title>
-    <link>https://www.fieb.org.br/noticias/judiciario-mercado-e-setor-produtivo-debatem-na-fieb-os-desafios-e-oportunidades-do-marco-legal-das-garantias/</link>
-    <guid isPermaLink="true">https://www.fieb.org.br/noticias/judiciario-mercado-e-setor-produtivo-debatem-na-fieb-os-desafios-e-oportunidades-do-marco-legal-das-garantias/</guid>
-    <description><![CDATA[<div>Judiciário, mercado e setor produtivo debatem na FIEB os desafios e oportunidades do Marco Legal das Garantias</div>]]></description>
-    <content:encoded><![CDATA[<div>Judiciário, mercado e setor produtivo debatem na FIEB os desafios e oportunidades do Marco Legal das Garantias</div>]]></content:encoded>
-    <dc:creator><![CDATA[Sistema FIEB]]></dc:creator>
-    <pubDate>Thu, 19 Nov 2026 16:40:04 +0000</pubDate>
-    
-  </item>
-  <item>
-    <title><![CDATA[Distratos disparam e bancos acumulam imóveis]]></title>
-    <link>https://pipelinevalor.globo.com/mercado/noticia/distratos-disparam-e-bancos-acumulam-imoveis.ghtml</link>
-    <guid isPermaLink="true">https://pipelinevalor.globo.com/mercado/noticia/distratos-disparam-e-bancos-acumulam-imoveis.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-pipelinevalor.glbimg.com/yfGkFoKh79JbQLSQ8LIxY1LprTA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/5/q/j65KzcQICYkafuG0kMzQ/sao-paulo-1206160-1920.jpg" style="width: 100%;" /><div>Volume crescente e juros altos aumentam receio no mercado de reestruturações em incorporadoras</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-pipelinevalor.glbimg.com/yfGkFoKh79JbQLSQ8LIxY1LprTA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/5/q/j65KzcQICYkafuG0kMzQ/sao-paulo-1206160-1920.jpg" style="width: 100%;" /><div>Volume crescente e juros altos aumentam receio no mercado de reestruturações em incorporadoras</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Pipeline]]></dc:creator>
-    <pubDate>Thu, 19 Nov 2026 11:40:04 +0000</pubDate>
-    <media:content medium="image" url="https://s2-pipelinevalor.glbimg.com/yfGkFoKh79JbQLSQ8LIxY1LprTA=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2023/5/q/j65KzcQICYkafuG0kMzQ/sao-paulo-1206160-1920.jpg" />
   </item>
 </channel>
 </rss>

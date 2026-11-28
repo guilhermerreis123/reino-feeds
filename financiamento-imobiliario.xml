@@ -5,7 +5,17 @@
   <link>https://raw.githubusercontent.com/guilhermerreis123/reino-feeds/main/financiamento-imobiliario.xml</link>
   <description><![CDATA[As notícias mais importantes de "financiamento imobiliário" (Google Notícias, filtradas pelo Claude, links diretos) — Reino]]></description>
   <language>pt-BR</language>
-  <lastBuildDate>Sat, 28 Nov 2026 10:40:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 11:41:38 +0000</lastBuildDate>
+  <item>
+    <title><![CDATA[Com entrada do Itaú, disputa pelo financiamento habitacional ganha força]]></title>
+    <link>https://www.correio24horas.com.br/economia/com-entrada-do-itau-disputa-pelo-financiamento-habitacional-ganha-forca-1126</link>
+    <guid isPermaLink="true">https://www.correio24horas.com.br/economia/com-entrada-do-itau-disputa-pelo-financiamento-habitacional-ganha-forca-1126</guid>
+    <description><![CDATA[<div><img src="https://midias.correio24horas.com.br/2026/11/25/minha-casa--minha-vida-3487836.jpg" style="width: 100%;" /><div>Banco privado passa a operar linhas do Minha Casa, Minha Vida para rendas de R$ 5 mil a R$ 12 mil e amplia opções para compradores</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://midias.correio24horas.com.br/2026/11/25/minha-casa--minha-vida-3487836.jpg" style="width: 100%;" /><div>Banco privado passa a operar linhas do Minha Casa, Minha Vida para rendas de R$ 5 mil a R$ 12 mil e amplia opções para compradores</div></div>]]></content:encoded>
+    <dc:creator><![CDATA[Jornal Correio]]></dc:creator>
+    <pubDate>Sat, 28 Nov 2026 11:40:08 +0000</pubDate>
+    <media:content medium="image" url="https://midias.correio24horas.com.br/2026/11/25/minha-casa--minha-vida-3487836.jpg" />
+  </item>
   <item>
     <title><![CDATA[Financiamento imobiliário fica mais caro após reeleição de Lula; veja os juros de cada banco]]></title>
     <link>https://www.estadao.com.br/em-alta/einvestidor/financas-pessoais/financiamento-imobiliario-fica-mais-caro-apos-reeleicao-de-lula-veja-os-juros-de-cada-banco/</link>
@@ -75,16 +85,6 @@
     <dc:creator><![CDATA[BA de Valor]]></dc:creator>
     <pubDate>Sun, 22 Nov 2026 11:40:08 +0000</pubDate>
     <media:content medium="image" url="https://badevalor.com.br/wp-content/uploads/2026/11/SPOT-Barra-Salvador-BA-5.jpg" />
-  </item>
-  <item>
-    <title><![CDATA[Itaú vai financiar imóveis pelo Minha Casa Minha Vida; veja regras]]></title>
-    <link>https://valorinveste.globo.com/produtos/imoveis/noticia/2026/11/20/itau-vai-financiar-imoveis-pelo-minha-casa-minha-vida-veja-regras.ghtml</link>
-    <guid isPermaLink="true">https://valorinveste.globo.com/produtos/imoveis/noticia/2026/11/20/itau-vai-financiar-imoveis-pelo-minha-casa-minha-vida-veja-regras.ghtml</guid>
-    <description><![CDATA[<div><img src="https://s2-valor-investe.glbimg.com/bYctJklvVmg4N0l2H7UGuDcRBbo=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/Q/P/WgxTjATpCFjzwBc32bsQ/itau.jpg" style="width: 100%;" /><div>Maior banco privado do país passará a operar na Faixa 3 do programa</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://s2-valor-investe.glbimg.com/bYctJklvVmg4N0l2H7UGuDcRBbo=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/Q/P/WgxTjATpCFjzwBc32bsQ/itau.jpg" style="width: 100%;" /><div>Maior banco privado do país passará a operar na Faixa 3 do programa</div></div>]]></content:encoded>
-    <dc:creator><![CDATA[Valor Investe]]></dc:creator>
-    <pubDate>Sat, 21 Nov 2026 11:40:08 +0000</pubDate>
-    <media:content medium="image" url="https://s2-valor-investe.glbimg.com/bYctJklvVmg4N0l2H7UGuDcRBbo=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/Q/P/WgxTjATpCFjzwBc32bsQ/itau.jpg" />
   </item>
 </channel>
 </rss>
